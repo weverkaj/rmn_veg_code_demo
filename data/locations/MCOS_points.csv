@@ -1,0 +1,104 @@
+"Name","Short Name","Description","Types","Latitude","Longitude"
+"Marin County Open Space (study area)",MCOS,,"Study Area",,
+"Rush Creek (Point Count Transect)",RUSH,,"Point Count Transect",,
+"Rush Creek1",RUSH01,point,"Point Count Point",38.12177,-122.5594801
+"Rush Creek10",RUSH10,point,"Point Count Point",38.1270057,-122.5458008
+"Rush Creek11",RUSH11,point,"Point Count Point",38.1259275,-122.5438375
+"Rush Creek12",RUSH12,point,"Point Count Point",38.1259865,-122.5413752
+"Rush Creek13",RUSH13,point,"Point Count Point",38.1257826,-122.5388807
+"Rush Creek14",RUSH14,point,"Point Count Point",38.1260348,-122.5362736
+"Rush Creek15",RUSH15,point,"Point Count Point",38.1260508,-122.5339884
+"Rush Creek2",RUSH02,point,"Point Count Point",38.1225962,-122.5573718
+"Rush Creek3",RUSH03,point,"Point Count Point",38.1238567,-122.5555266
+"Rush Creek4",RUSH04,point,"Point Count Point",38.1252355,-122.5531179
+"Rush Creek5",RUSH05,point,"Point Count Point",38.1270647,-122.5533003
+"Rush Creek6",RUSH06,point,"Point Count Point",38.1288403,-122.5531554
+"Rush Creek7",RUSH07,point,"Point Count Point",38.129645,-122.551015
+"Rush Creek8",RUSH08,point,"Point Count Point",38.1298274,-122.5487567
+"Rush Creek9",RUSH09,point,"Point Count Point",38.1281483,-122.5478125
+"French Ranch (Point Count Transect)",FRRA,,"Point Count Transect",,
+"French Ranch1",FRRA01,"13-MAY-09 13:34","Point Count Point",38.019803,-122.683586
+"French Ranch2",FRRA02,"13-MAY-09 13:30","Point Count Point",38.018387,-122.681821
+"French Ranch3",FRRA03,"13-MAY-09 13:25","Point Count Point",38.016783,-122.682534
+"French Ranch4",FRRA04,"13-MAY-09 14:38","Point Count Point",38.020114,-122.676483
+"French Ranch5",FRRA05,"13-MAY-09 14:55","Point Count Point",38.022405,-122.677969
+"French Ranch6",FRRA06,"13-MAY-09 14:59","Point Count Point",38.024266,-122.677943
+"French Ranch7",FRRA07,"13-MAY-09 15:13","Point Count Point",38.025983,-122.677916
+"French Ranch8",FRRA08,"13-MAY-09 15:17","Point Count Point",38.02749,-122.678887
+"Mt Burdell (Point Count Transect)",MTBU,,"Point Count Transect",,
+"Mt Burdell01",MTBU01,"25-MAY-09 00:17","Point Count Point",38.129232,-122.596403
+"Mt Burdell02",MTBU02,"24-MAY-09 23:40","Point Count Point",38.128502,-122.594327
+"Mt Burdell03",MTBU03,"24-MAY-09 23:35","Point Count Point",38.126839,-122.593442
+"Mt Burdell04",MTBU04,"24-MAY-09 23:50","Point Count Point",38.126684,-122.59569
+"Mt Burdell05",MTBU05,"27-MAY-09 14:13","Point Count Point",38.127671,-122.587268
+"Mt Burdell06",MTBU06,"27-MAY-09 14:24","Point Count Point",38.127665,-122.58951
+"Mt Burdell07",MTBU07,"24-MAY-09 23:28","Point Count Point",38.127971,-122.591661
+"Mt Burdell08",MTBU08,"24-MAY-09 23:22","Point Count Point",38.129516,-122.590669
+"Mt Burdell09",MTBU09,"27-MAY-09 14:59","Point Count Point",38.131249,-122.589827
+"Mt Burdell10",MTBU10,"27-MAY-09 15:11","Point Count Point",38.132059,-122.587713
+"Mt Burdell11",MTBU11,"27-MAY-09 15:21","Point Count Point",38.131995,-122.585369
+"Mt Burdell12",MTBU12,"27-MAY-09 15:33","Point Count Point",38.132043,-122.583046
+"Mt Burdell13",MTBU13,"27-MAY-09 15:42","Point Count Point",38.133422,-122.581549
+"Mt Burdell14",MTBU14,"27-MAY-09 15:59","Point Count Point",38.133749,-122.58406
+"Mt Burdell15",MTBU15,"27-MAY-09 16:13","Point Count Point",38.135031,-122.585852
+"Ring Mountain (Point Count Transect)",RIMO,,"Point Count Transect",,
+RIMO01,RIMO01,"22-MAY-09 13:36","Point Count Point",37.917268,-122.494045
+RIMO02,RIMO02,"22-MAY-09 13:44","Point Count Point",37.915556,-122.494555
+RIMO03,RIMO03,"22-MAY-09 13:57","Point Count Point",37.913808,-122.494994
+RIMO04,RIMO04,"22-MAY-09 14:12","Point Count Point",37.912096,-122.494083
+RIMO05,RIMO05,"22-MAY-09 14:31","Point Count Point",37.910546,-122.495182
+RIMO06,RIMO06,"22-MAY-09 14:44","Point Count Point",37.910568,-122.492704
+RIMO07,RIMO07,"22-MAY-09 15:17","Point Count Point",37.91222,-122.489646
+RIMO08,RIMO08,"22-MAY-09 15:32","Point Count Point",37.91105,-122.487871
+RIMO09,RIMO09,"22-MAY-09 15:42","Point Count Point",37.910224,-122.485757
+RIMO10,RIMO10,"22-MAY-09 14:56","Point Count Point",37.912558,-122.491872
+RIMO11,RIMO11,"22-MAY-09 16:07","Point Count Point",37.91436,-122.49184
+"Indian Tree (Point Count Transect)",INTR,,"Point Count Transect",,
+INTR01,INTR01,,"Point Count Point",38.102286,-122.634352
+INTR02,INTR02,,"Point Count Point",38.102974,-122.63647
+INTR03,INTR03,,"Point Count Point",38.103308,-122.63876
+INTR04,INTR04,,"Point Count Point",38.101725,-122.639903
+INTR05,INTR05,,"Point Count Point",38.102502,-122.641905
+INTR06,INTR06,,"Point Count Point",38.100957,-122.642862
+INTR07,INTR07,,"Point Count Point",38.099711,-122.641251
+INTR08,INTR08,,"Point Count Point",38.0979,-122.641661
+INTR09,INTR09,,"Point Count Point",38.09605,-122.641995
+INTR10,INTR10,,"Point Count Point",38.09474,-122.643589
+"Indian Valley (Point Count Transect)",INVA,,"Point Count Transect",,
+INVA01,INVA01,,"Point Count Point",38.084667,-122.590968
+INVA02,INVA02,,"Point Count Point",38.083529,-122.59307
+INVA03,INVA03,,"Point Count Point",38.083306,-122.595424
+INVA04,INVA04,,"Point Count Point",38.081689,-122.596541
+INVA05,INVA05,,"Point Count Point",38.080219,-122.598
+INVA06,INVA06,,"Point Count Point",38.078808,-122.599568
+INVA07,INVA07,,"Point Count Point",38.077019,-122.599621
+INVA08,INVA08,,"Point Count Point",38.076951,-122.597269
+INVA09,INVA09,,"Point Count Point",38.076608,-122.595016
+INVA10,INVA10,,"Point Count Point",38.078044,-122.59536
+INVA11,INVA11,,"Point Count Point",38.079837,-122.594499
+INVA12,INVA12,,"Point Count Point",38.080843,-122.592542
+"Mt Burdell16",MTBU16,point,"Point Count Point",38.125934,-122.58544
+"Mt Burdell17",MTBU17,point,"Point Count Point",38.124407,-122.581627
+"Mt Burdell18",MTBU18,point,"Point Count Point",38.12144,-122.578632
+"Mt Burdell19",MTBU19,point,"Point Count Point",38.122259,-122.57598
+"Mt Burdell20",MTBU20,point,"Point Count Point",38.124263,-122.594748
+"Mt Burdell21",MTBU21,point,"Point Count Point",38.125417,-122.600001
+"Mt Burdell22",MTBU22,point,"Point Count Point",38.129704,-122.599236
+"Mt Burdell23",MTBU23,point,"Point Count Point",38.130669,-122.601821
+"Mt Burdell24",MTBU24,point,"Point Count Point",38.137574,-122.591719
+"Mt Burdell25",MTBU25,point,"Point Count Point",38.138286,-122.594522
+"Mt Burdell26",MTBU26,point,"Point Count Point",38.136384,-122.599462
+"Mt Burdell27",MTBU27,point,"Point Count Point",38.138502,-122.602338
+"Mt Burdell28",MTBU28,point,"Point Count Point",38.136746,-122.605497
+"Mt Burdell29",MTBU29,point,"Point Count Point",38.135507,-122.609394
+"Mt Burdell30",MTBU30,,"Point Count Point",38.131485,-122.611367
+"Mt Burdell31",MTBU31,point,"Point Count Point",38.129232,-122.61163
+"Mt Burdell32",MTBU32,point,"Point Count Point",38.126942,-122.611186
+"Mt Burdell33",MTBU33,point,"Point Count Point",38.124139,-122.611372
+"Mt Burdell34",MTBU34,"point [was briefly labeled pt 35, but then changed to 34 when dropped the original pt 34]","Point Count Point",38.124535,-122.605768
+FRRA_09,FRRA_09,point,"Point Count Point",38.022893,-122.674719
+FRRA_10,FRRA_10,point,"Point Count Point",38.021122,-122.673017
+FRRA_11,FRRA_11,point,"Point Count Point",38.021454,-122.666214
+FRRA_12,FRRA_12,point,"Point Count Point",38.021464,-122.663377
+FRRA_13,FRRA_13,point,"Point Count Point",38.015824,-122.657718
+FRRA_14,FRRA_14,point,"Point Count Point",38.01576,-122.654381

@@ -1,0 +1,791 @@
+"Study Area","Transect Name","PointId","Observer","Date","DBH LT 23cm","DBH GT 38cm","DBH 23cm To 38cm","Snags","Grazing","Notes"
+SHA-12-02,CHGA,CHGA-03,"Reese, Nathan",2018-05-21,,,,,1,
+GLE-13-05,SANR,SANR-10,"Martin, Ben",2015-07-13,,,,,1,"No information on tree DBH"
+GLE-13-05,SANR,SANR-10,"Halstrom, Grant",2018-05-29,,,2,,1,"CANT TELL IF DBH >38 IS 2 OR 11"
+GLE-13-05,SANR,SANR-11,"Halstrom, Grant",2018-05-29,39,25,1,,1,"LARK SPARROW 10M FROM THE POINT UNDER A ROCK - 4 FLEDGLINGS!"
+GLE-13-05,SANR,SANR-19,"Martin, Ben",2015-07-24,,,,,1,"No data on tree DBH"
+GLE-13-05,SANR,SANR-19,"Halstrom, Grant",2018-05-29,,2,,,1,
+GLE-13-05,SANR,SANR-06,"Halstrom, Grant",2018-05-29,31,13,4,1,1,
+GLE-13-04,SFWO,SFWO-19,"Halstrom, Grant",2018-06-01,2,3,2,,1,
+GLE-13-04,SFWO,SFWO-19,"Garcia, Dabid",2022-04-14,1,4,5,1,1,
+GLE-13-04,SFWO,SFWO-02,"Halstrom, Grant",2018-06-11,22,23,5,1,1,
+GLE-13-04,SFWO,SFWO-04,"Halstrom, Grant",2018-05-30,18,18,10,1,1,
+GLE-13-04,SFWO,SFWO-04,"Garcia, Dabid",2022-04-13,17,33,19,1,1,
+GLE-13-04,SFWO,SFWO-05,"Halstrom, Grant",2018-05-30,9,9,9,1,1,
+GLE-13-04,SFWO,SFWO-05,"Garcia, Dabid",2022-04-13,10,5,7,2,1,
+GLE-13-02,DIVR,DIVR-19,"Martin, Ben",2015-06-25,,,,,1,"No info for DBH of trees"
+GLE-13-02,DIVR,DIVR-19,"Garcia, Dabid",2022-04-12,51,12,3,2,,
+GLE-13-02,DIVR,DIVR-21,"Martin, Ben",2015-07-13,,,,,1,"No info for DBH of trees. Salt lick present on site. A lot of dead/dry forbs."
+GLE-13-02,DIVR,DIVR-21,"Garcia, Dabid",2022-04-13,116,51,10,1,1,"Transect crosses dirt road"
+GLE-13-02,DIVR,DIVR-04,"Garcia, Dabid",2022-04-12,30,60,25,1,,
+GLE-13-02,DIVR,DIVR-05,"Garcia, Dabid",2022-04-12,119,78,26,2,,
+GLE-13-03,BORO,BORO-16,"Martin, Ben",2015-07-17,,,,1,1,
+GLE-13-03,BORO,BORO-04,"Martin, Ben",2015-07-17,,,,,1,
+LAS-13-02,SMCR,SMCR-11,"Russell, Tiffany",2016-05-25,,,,,,
+LAS-13-02,SMCR,SMCR-04,"Russell, Tiffany",2016-05-25,,,,,1,"Last year was grazed, rested this year"
+LAS-12-07,DRCA,DRCA-10,"Russell, Tiffany",2016-05-23,,,,,,"No grazing in the last 2 years"
+LAS-12-07,DRCA,DRCA-09,"Russell, Tiffany",2016-05-23,0,0,0,0,1,"rested from grazing for 2 years"
+ELD-14-01,WAKA,WAKA-06,"Fogg, Alissa",2018-05-25,5,,8,,,"Does not appear to have been grazed yet this growing season but sheep were on it last fall."
+ELD-14-01,WAKA,WAKA-06,"Fogg, Alissa",2021-06-08,5,3,7,,1,"Was grazed in spring lightly"
+ELD-14-01,WAKA,WAKA-10,"Fogg, Alissa",2018-05-21,,,5,,1,"Could not releve 1/4 of plot due to electric fencing with sheep and dog inside."
+ELD-14-01,WAKA,WAKA-10,"Fogg, Alissa",2021-05-25,,,3,,1,"Grazed last fall 2020 by sheep"
+ELD-14-01,WAKA,WAKA-13,"Fogg, Alissa",2018-05-09,,,,,1,
+ELD-14-01,WAKA,WAKA-13,"Fogg, Alissa",2021-05-25,,,,,1,"Sheep grazed hard fall 2020 then range seeded."
+SHA-14-05,ABER,ABER-02,"Young, Alicia",2016-05-16,29,35,14,2,1,
+SHA-14-05,ABER,ABER-02,"Reese, Nathan",2018-05-17,26,28,6,1,1,
+SHA-14-05,ABER,ABER-10,"Young, Alicia",2016-05-18,122,34,0,4,0,
+SHA-14-05,ABER,ABER-10,"Reese, Nathan",2018-05-16,464,8,4,,1,"Pig Rooting on line 318 degree - point 14-16; 33-38"
+SHA-14-05,ABER,ABER-14,"Young, Alicia",2016-05-18,86,42,7,4,0,
+SHA-14-05,ABER,ABER-14,"Reese, Nathan",2018-05-16,260,92,6,1,1,"Lark Sparrow nesting off of line; 4 eggs"
+ELD-14-02,SFRA,SFRA-06,"Fogg, Alissa",2017-04-19,,1,,,1,"Wet swale grazed down through both transects; difficult to ID grasses at times, may be other wetland-associated species not accounted for."
+ELD-14-02,SFRA,SFRA-06,"Fogg, Alissa",2022-05-12,,1,,,1,"Still fairly green. Saw mama bear and cub! Near SFRA-10"
+ELD-14-02,SFRA,SFRA-08,"Fogg, Alissa",2017-04-17,,,1,,1,"Thatch is mostly medusahead."
+ELD-14-02,SFRA,SFRA-08,"Noda, Sophie",2022-06-08,,,1,,1,
+ELD-14-02,SFRA,SFRA-12,"Fogg, Alissa",2017-04-17,,,3,,1,"DID NOT MEASURE CANOPY ON LINE INTERCEPT; HOPE TO RETURN TO DO SO. NO HEIGHT ON OAKS, ALSO PLAN TO RETURN FOR THIS VARIABLE."
+ELD-14-02,SFRA,SFRA-12,"Noda, Sophie",2022-06-08,,1,7,,1,
+SHA-12-02,FENW,FENW-03,"Young, Alicia",2016-05-03,0,0,0,0,1,
+SHA-12-02,FENW,FENW-03,"Reese, Nathan",2018-05-17,6,1,1,,1,
+SHA-12-02,FENW,FENW-03,"Garcia, Dabid",2022-05-04,1,3,5,,1,
+SHA-12-02,FENW,FENW-10,"Young, Alicia",2016-05-04,30,17,8,1,0,
+SHA-12-02,FENW,FENW-10,"Reese, Nathan",2018-05-21,55,16,8,,1,"Seasonal drainage in plot."
+SHA-12-02,FENW,FENW-10,"Garcia, Dabid",2022-05-03,66,38,13,2,1,
+SHA-12-02,FENW,FENW-20,"Young, Alicia",2015-05-03,151,59,12,3,0,
+SHA-12-02,FENW,FENW-20,"Reese, Nathan",2018-05-18,108,10,2,,1,"Cattle in the pasture during sampling."
+SHA-12-02,FENW,FENW-20,"Garcia, Dabid",2022-05-03,142,61,18,2,,
+SHA-12-02,FENW,FENW-23,"Young, Alicia",2016-05-03,17,15,5,0,0,
+SHA-12-02,FENW,FENW-23,"Reese, Nathan",2018-05-18,29,4,6,,1,
+SHA-12-02,FENW,FENW-23,"Garcia, Dabid",2022-05-03,18,12,9,4,1,
+SHA-12-02,FENW,FENW-30,"Herrera, Alicia",2016-05-04,34,18,2,0,0,
+SHA-12-02,FENW,FENW-30,"Reese, Nathan",2018-05-18,67,15,6,,1,
+SHA-12-02,FENW,FENW-30,"Garcia, Dabid",2022-05-03,45,15,8,1,1,
+SHA-12-05,DERS,DERS-06,"Reese, Nathan",2018-05-15,72,13,5,,1,
+SHA-12-05,DERS,DERS-09,"Reese, Nathan",2018-05-15,47,16,17,3,1,
+SHA-12-05,DERS,DERS-14,"Reese, Nathan",2018-05-15,,2,1,,1,
+FRE-14-01,MCPR,MCPR-03,"Eyestone, Bonnie",2016-04-22,0,2,3,2,1,
+FRE-14-01,MCPR,MCPR-03,"Halstrom, Grant",2018-04-19,,,2,,1,
+FRE-14-01,MCPR,MCPR-03,"Le, My-Lan",2022-04-05,,,4,3,1,"less than 1% of 50 m radius has a road"
+FRE-14-01,MCPR,MCPR-07,"Eyestone, Bonnie",2016-04-22,9,12,6,10,1,
+FRE-14-01,MCPR,MCPR-07,"Swanson, Ryan",2018-04-19,11,15,9,4,1,
+FRE-14-01,MCPR,MCPR-07,"Noda, Sophie",2022-04-05,18,32,12,9,1,
+FRE-14-01,MCPR,MCPR-09,"Eyestone, Bonnie",2016-04-22,5,18,7,5,1,"puppy chewed on data sheet� some data points missing."
+FRE-14-01,MCPR,MCPR-09,"Swanson, Ryan",2018-04-19,8,17,10,2,,
+FRE-14-01,MCPR,MCPR-09,"Noda, Sophie",2022-04-05,8,11,4,3,1,"Not super crispy"
+MAD-14-01,FINE,FINE-13,"Eyestone, Bonnie",2016-04-21,15,6,8,0,1,"VERY LIGHT GRAZING, LITTLE DISTURBANCE"
+MAD-14-01,FINE,FINE-13,"Halstrom, Grant",2018-04-20,15,9,1,,,
+MAD-14-01,FINE,FINE-13,"Noda, Sophie",2022-04-04,16,10,9,3,1,
+MAD-14-01,FINE,FINE-06,"Eyestone, Bonnie",2016-04-21,11,6,9,4,1,"light grazing; some boulders/rocky outcrop; many large downed logs; moss and lichen on rocks; juve OATIs begging"
+MAD-14-01,FINE,FINE-06,"Halstrom, Grant",2018-04-20,10,6,6,6,1,
+MAD-14-01,FINE,FINE-06,"Noda, Sophie",2022-04-04,12,12,2,2,1,"phenology seemed perfect- most grasses flowering, still many forbs. BORAGI on LPI is likely a plagiobothrys."
+MAD-14-01,FINE,FINE-08,"Eyestone, Bonnie",2016-04-21,3,5,12,3,1,"LIGHT GRAZING"
+MAD-14-01,FINE,FINE-08,"Eyestone, Bonnie",2018-04-20,1,4,8,3,1,
+MAD-14-01,FINE,FINE-08,"Le, My-Lan",2022-04-04,15,16,18,3,1,"Dirt road is 1% of 50m radius. Species are different right at road edge."
+SHA-14-05,ABER,ABER-20,"Young, Alicia",2016-05-16,0,0,0,0,0,
+SHA-14-05,ABER,ABER-20,"Reese, Nathan",2018-05-17,,,,,1,
+SHA-14-05,ABER,ABER-28,"Young, Alicia",2016-05-18,0,0,0,0,0,
+SHA-14-05,ABER,ABER-28,"Reese, Nathan",2018-05-16,,,,,1,
+SHA-14-05,ABER,ABER-32,"Young, Alicia",2016-05-16,0,2,2,0,0,
+SHA-14-05,ABER,ABER-32,"Reese, Nathan",2018-05-17,,,3,,1,
+YOL-14-02,YARI,YARI-01,"Shake, Corey",2016-05-09,21,2,3,0,1,"searched for 30 min, grazed farily heavily in March"
+YOL-14-02,YARI,YARI-01,"Shake, Corey",2017-05-19,41,5,3,1,,"Generally ungrazed though a few heifers have snuck in.  Restoration site planted this winter - paper datasheet indicates which species were added by restoration.  NE LPI transect crossed a mowed strip and dirt road.  In LPI, ELYMU = Elymus, not sure if LETR5 or ELGL; 2GP is probably POSE."
+YOL-14-02,YARI,YARI-01,"Shake, Corey",2021-05-12,37,4,2,,0,"Not grazed for at least 5 years or mowed for at least 3 years. Road on points 29-33 on transect 312 degrees. 2GA thatch likely BRDI3 or AVENA on 132 transect"
+YOL-14-02,YAGR,YA03-01,"Shake, Corey",2016-04-19,0,0,0,0,0,"enrolled in CRP- not grazed this year- only lightly grazed in previous years"
+YOL-14-02,YAGR,YA03-01,"Shake, Corey",2017-05-19,,,,,0,"In 50m radius, THINO = <1% cover, AETR = 6%, SIMA3 = <1%, CAPY2 = <1%.  This is Conservation Reserve Program - rarely grazed.  Last time grazed was 3 yrs ago with sheep and only briefly.  Was prescribed burned 3 weeks after veg sampling."
+YOL-14-02,YAGR,YA03-01,"Shake, Corey",2018-05-30,,,,,1,"Burned last early June with prescribed fire; grazed only briefly this spring but cattle rarely made it this far from water/shade; AETR <1%"
+YOL-14-02,YAGR,YA03-01,"Shake, Corey",2019-04-25,,,,,,
+YOL-14-02,YAGR,YA03-01,"Shake, Corey",2021-05-17,,,,,1,"Very few spp. of grass and forbs! moderate grazing because far from water. Most VIVI, CESO3, and LASE will produce little to no seed"
+YOL-14-02,YAGR,YA03-04,"Shake, Corey",2016-04-21,0,0,0,0,0,"CRP field- not grazed this year- only lightly in a few previous yrs"
+YOL-14-02,YAGR,YA03-04,"Shake, Corey",2017-06-17,,,,,,"In LPI, if thatch was recorded, litter was not recorded in the field, but we noted that it was almost always there and thick like duff. For that reason, I added Litter (L) as a lower layer to all points with thatch.  CRP field rarely grazed, last time was 3 seasons ago short rotations low intensity. Scheduled to be burned this late spring 2017."
+YOL-14-02,YAGR,YA03-04,"Shake, Corey",2018-05-30,,,,,1,"Prescribed burn here early June 2017; grazed briefly this spring (April), cattle liked LASE; Bare ground ~45%, AETR ~7%"
+YOL-14-02,YAGR,YA03-04,"Shake, Corey",2019-04-25,,,,,,
+YOL-14-02,YAGR,YA03-04,"Shake, Corey",2021-05-17,,,,,1,"Most plants, except COAR4, are quite dry and several species produced little to no seed (e.g. VIVI, MEPO3). Notably, the overwhelming majority (~85-90% cover) of AETR did not produced seed head. 3 Baccharis pilularis have colonized this hillside in last 2 years-1 small on in plot."
+YOL-14-02,YAGR,YA03-04,"Garcia, Dabid",2022-04-27,,,,,1,
+YOL-14-02,YAGR,YA1A-14,"Shake, Corey",2016-04-25,0,0,0,0,1,"will be grazed in 5-8 days, most bare soil from gopher activity"
+YOL-14-02,YAGR,YA1A-14,"Shake, Corey",2017-05-17,,,,,1,"Grazed by cattle about 1-1.5 mo.  Weed/other cover estimates:  AETR = 1%, DAGL = 1%, TACA8 =<1%, THINO = 3%."
+YOL-14-02,YAGR,YA1A-14,"Shake, Corey",2018-04-25,,,,,0,"Estimated cover w/in 50m:  THINO = 3%, DAGL = 1%, AETR = <1%, TACA8 = 2%.  Not grazed since last summer--not in the current growing season, thus far."
+YOL-14-02,YAGR,YA1A-14,"Shake, Corey",2019-04-25,,,,,1,"Currently being grazed."
+YOL-14-02,YAGR,YA1A-14,"Shake, Corey",2021-05-12,,,,,1,"Most vegetation is almost entirely dry. Moderate grazing this year."
+YOL-14-02,YAGR,YA1A-14,"Garcia, Dabid",2022-04-26,,,,,1,"Cattle in field"
+YOL-14-02,YAGR,YA1B-05,"Shake, Corey",2016-04-21,0,0,0,0,1,
+YOL-14-02,YAGR,YA1B-05,"Shake, Corey",2017-05-17,,,,,1,"Grazed by 90 heifers in winter and early spring."
+YOL-14-02,YAGR,YA1B-05,"Shake, Corey",2018-05-21,,,,,1,"Prescribed burn last spring (second in a row, 2016 as well); Grazed late last summer/early fall; AETR ~15%, TACA8 <1%"
+YOL-14-02,YAGR,YA1B-05,"Shake, Corey",2021-05-21,,,,,1,"Heavy grazing very low rainfall combined to make for low, crispy plants that produced little to no seeds (BRAL2 w/ most, AETR w/ none, though somewhat common in patches)"
+YOL-14-02,YAGR,YA1B-10,"Shake, Corey",2016-05-09,0,0,0,0,1,"Grazed in December/January"
+YOL-14-02,YAGR,YA1B-10,"Shake, Corey",2017-05-19,,,,,,"This year CESO3 study (UC) created exclosure fence to exclude cattle from 97% of 50m radius plot - a few suck in on occasion in the winter."
+YOL-14-02,YAGR,YA1B-10,"Shake, Corey",2018-05-18,,,,,,"Grazing exclosure for star thistle study on all but about 3% of 50m radius area; points 46-50 for 172 degrees outside of exclosure."
+YOL-14-02,YAGR,YA1B-10,"Shake, Corey",2021-05-20,,,,,,"All but ~3% of plot is ungrazed still in star thistle exclosure. Most plants had little to no seed production this exremely dry year, esp. on S-facing slopes, though BRAL2 and AVENA did better of N- and E- facing slope. AETR plants fairly abundant, but 0 seed heads seen in plot!"
+YOL-14-02,YAGR,YA1B-10,"Garcia, Dabid",2022-04-26,,,,,1,"Exclosure fencing for star thistle research enclosing this point was removed last late winter or spring (2021) and a new crossfence way put 50 meters to west (going N-S). So after no grazing for at least 3 seasons - now grazed."
+YOL-14-04,BRGR,BR10-05,"Shake, Corey",2016-05-11,0,0,0,1,1,"Grazed earlier in season- maybe 1-2 months ago"
+YOL-14-04,BRGR,BR10-05,"Shake, Corey",2017-06-07,,,,,1,"Visual estimates of cover:  NAPU4 = 1%, AETR = <1%,  TACA8 = 2%, SIMA3 = 1%, CEME2 = 1%, CAPY2 = 1%, PIEC = 4%."
+YOL-14-04,BRGR,BR10-05,"Shake, Corey",2018-05-14,,,,,1,
+YOL-14-04,BRGR,BR10-05,"Noda, Sophie",2021-05-26,,,,,,"Because no water in ponds this field was not grazed this season. Burned in LNU complex wildlife last summer. Plant search was 25 minutes"
+YOL-14-04,BRGR,BR10-05,"Garcia, Dabid",2022-04-28,,,,,1,"MESC6 (Medicago scutellata) not discovered in CADC, so entered as MEDIC (Medicago). -SJN On LPI, all LUSU is dried/brown and in several areas collapsed and laying horizontal much shorter than it's max height (45-65 cm). SIMA3 lower leaves also senesced/fallen off making it appear less abundant than it was. Plant search was 26 min of effort."
+YOL-14-04,BRGR,BR03-02,"Shake, Corey",2016-05-16,0,5,2,0,1,"field is currently being grazed but cattle appear to very rarely graze up to this high point"
+YOL-14-04,BRGR,BR03-02,"Shake, Corey",2017-06-07,,3,3,,1,"In 50-m radius, visual estimate for AETR is 5% cover, TACA8 is 1%, SIMA3 is 1%, and CAPY2 is 2%.  EPILO is annual Epilobium sp., perhaps a willowherb.  Sites appear to have burned intensely along transect 2 (9 degrees) and on north slope to east--burned in July 2016."
+YOL-14-04,BRGR,BR03-02,"Shake, Corey",2018-05-14,,4,3,,1,"NOT YET GRAZED THIS YEAR"
+YOL-14-04,BRGR,BR03-02,"Shake, Corey",2019-05-06,,1,5,,1,
+YOL-14-04,BRGR,BR03-02,"Noda, Sophie",2021-05-28,,2,5,,,"Not grazed this season, but burned in LNU complex wildfire last season"
+YOL-14-04,BROW,BR04-08,"Shake, Corey",2016-05-11,35,19,7,1,1,
+YOL-14-04,BROW,BR04-08,"Shake, Corey",2017-06-05,28,12,8,2,1,"Aristida sp. (ARIST) is probably Aristida ternipes, but didn't collect to confirm.  3 different unidentified annual forbs, two of which in Asteraceae."
+YOL-14-04,BROW,BR04-08,"Shake, Corey",2018-05-14,63,9,4,,1,
+YOL-14-04,BROW,BR04-08,"Shake, Corey",2019-05-06,42,39,12,4,1,
+YOL-14-04,BROW,BR04-08,"Noda, Sophie",2021-05-27,47,25,15,5,1,"Burned in last summer's LNU complex wildfire"
+YOL-14-04,BROW,BR09-04,"Shake, Corey",2016-05-16,8,26,3,1,1,
+YOL-14-04,BROW,BR09-04,"Shake, Corey",2017-05-12,14,21,4,,1,"LPI transect 1, creekbed at pts 25-30.  Searched species diversity for 28 min because of high diversity.  Three small native annual Trifolium species found, but was only able to identify T. ciliolatum because of very dry specimens.  Visual estimates of cover w/in 50 m:  NAPU4 = 6%, AETR = 8%, TACA8 = 38%, MECA2 = <1%, BRDI2 = 4%, BRDI3 = <1%, and CEME2 = <1%."
+YOL-14-04,BROW,BR09-04,"Shake, Corey",2018-05-14,7,18,9,2,1,
+YOL-14-04,BROW,BR09-04,"Noda, Sophie",2021-05-26,13,20,8,3,,"I don't think this was grazed this season, but was burned in last years LNU complex wildfire. Plant search was 24 minutes"
+YOL-14-03,YLOW,YL05-05,"Shake, Corey",2016-05-10,3,13,6,3,1,"grazing not recent but w/in this season"
+YOL-14-03,YLOW,YL05-05,"Shake, Corey",2017-06-09,4,10,7,2,1,"Cattle bedding area in LPI 2nd transect 26-33, smashed grass.  Visual estimate of cover w/in 50 m:  TACA8 = 30%, AETR = <1%, NAPU4 = 3%, and MECA2 = <1%."
+YOL-14-03,YLOW,YL05-05,"Shake, Corey",2018-05-07,,9,9,1,1,"NAPU4 Presence 1%         MECA2 2%"
+YOL-14-03,YLOW,YL05-05,"Noda, Sophie",2021-05-07,3,9,7,2,1,"Most grasses dried up significantly and forbs too. Except TACA8, LOPEM2, perennials"
+YOL-14-03,YLGR,YL06-02,"Shake, Corey",2016-05-05,2,0,0,0,1,"Currently being grazed, browse line on willows"
+YOL-14-03,YLGR,YL06-02,"Shake, Corey",2017-05-25,1,,,,1,"Currently being grazed - cropped grass common.  EPILO = unknown annual Epilobium species, likely willow herb, but not sure which species.  Cover estimates w/in 50 m: AETR = 4%, NAPU4 = <1%, TACA8 = 40%."
+YOL-14-03,YLGR,YL06-02,"Shake, Corey",2018-05-07,,,,,1,"MECA2 Presence <1 NAPU4 <1"
+YOL-14-03,YLGR,YL06-02,"Shake, Corey",2021-05-06,,1,,,1,"Grazing has been heavy this year with very low precip, less than 6 inches"
+YOL-14-03,YLGR,YL06-02,"Garcia, Dabid",2022-04-27,,1,,,1,
+YOL-14-03,YLOW,YL09-05,"Shake, Corey",2016-05-10,0,0,0,0,1,
+YOL-14-03,YLOW,YL09-05,"Shake, Corey",2017-05-03,,,2,,1,"Invasive/per. grass visual estimate of cover within 50 m:  NAPU4 = <1%, BRDI3 = <1%, BRRU2 = <1%, AETR = 1%, TACA8 = 38%, LASE = <1%, CEME2 = <1%, and CESO3 = <1%."
+YOL-14-03,YLOW,YL09-05,"Shake, Corey",2018-05-08,,,1,,1,
+YOL-14-03,YLOW,YL09-05,"Noda, Sophie",2021-05-06,,,,,1,"Plot burned in LNU fire last summer- very little growth this year. Canopy of 1 big QUDO is ~1% cover but it is rooted just outside plot. Everything expect TRHI4, NAPU4, RUCR already dried up."
+YOL-14-03,YLGR,YL12-TR,"Shake, Corey",2016-05-03,0,0,0,0,1,
+YOL-14-03,YLGR,YL12-TR,"Shake, Corey",2017-05-02,,,,,1,"Difficult to estimate invasive grass cover because grazed and seed heads often not visible, but AETR ~ 2-3% cover and BRAL2 (Bomus caroli-henrici) ~ 25%.  Grazed somewhat heavily (~400-1200 lbs/ac RDM) so plant ID difficult for some things."
+YOL-14-03,YLGR,YL12-TR,"Shake, Corey",2018-05-08,,,,,1,
+YOL-14-03,YLGR,YL12-TR,"Shake, Corey",2019-05-08,,,,,1,
+YOL-14-03,YLGR,YL12-TR,"Halstrom, Grant",2020-05-14,,,,,1,
+YOL-14-03,YLGR,YL12-TR,"Noda, Sophie",2021-05-05,,,,,1,"Area was heavily grazed and production low- exceptionally dry year"
+"Yolo County",YOL-14-05,10-AN,"Shake, Corey",2018-05-16,,,,,1,"grazed in fall/winter"
+"Yolo County",YOL-14-05,09-AE,"Shake, Corey",2018-05-16,,,,,1,"GRAZED FALL/WINTER"
+MAR-13-02,BEAN,BEAN-01,"Mong, Catie",2021-05-12,2,9,8,,1,"near riparian area, 2 unknown grass (brome not soft chess another in poa), 2 unknown forbes"
+MAR-13-02,BEAN,BEAN-02,"Harding, Mitzi",2016-05-25,17,7,6,0,1,"CARYO= unknown Caryophyllaceae (dried fruits onky- no fresh herbage or flowers to ID).2 species of clarkia occuring within plot."
+MAR-13-02,BEAN,BEAN-02,"Guntly, Katie",2018-05-06,4,4,8,,,"POND FROM 15 ONWARD FOR 140; 19, 43 FOR 320 UNKNOWN PLANT CODE (GREND WRITTEN ON DATA SHEET); WATER AFTER 46 AT 320"
+MAR-13-02,BEAN,BEAN-02,"Mong, Catie",2021-05-12,7,3,3,5,1,"transect 140 degrees stopped at pond, ""fire spot?"" bear poppy?, purple larkspur"
+MAR-13-04,3B-G,3B-G-49,"Harding, Mitzi",2016-05-05,9,20,9,12,0,"TO BE GRAZED FIRST WEEK IN JUNE"
+MAR-13-04,3B-G,3B-G-49,"Guntly, Katie",2018-05-02,3,9,6,19,,"NO GRAZING RECENTLY; BLUE OAK SEEDLINGS"
+MAR-13-04,3B-I,3B-I-00,"Harding, Mitzi",2016-05-20,1,5,5,1,0,"Points 43-45 in the 98 degree direction occurred on an access road. One small Pinus sabiniana sapling observed (8"")."
+MAR-13-04,3B-I,3B-I-00,"Guntly, Katie",2018-04-30,,1,1,1,1,
+MAR-13-04,3B-I,3B-I-00,"Mong, Catie",2021-05-06,6,3,,2,1,"Last grazed 2.5 months ago. Growing season was 10-20 days short. Lost access to monitor 3B-I in the future."
+MAR-13-04,3B-I,3B-I-38,"Harding, Mitzi",2016-05-20,6,8,13,5,1,"*2 distinct species of annual Lotus observed within plot."
+MAR-13-04,3B-I,3B-I-38,"Guntly, Katie",2018-04-30,6,9,7,1,,
+MAR-13-04,3B-M,3B-M-54,"Harding, Mitzi",2016-05-05,5,12,10,12,0,"PASTURE TO BE GRAZED WITHIN THE NEXT MONTH, SNAGS NOT INCLUDED IN DBH COUNTS!"
+MAR-13-04,3B-M,3B-M-54,"Eyestone, Bonnie",2018-05-02,10,6,11,13,1,
+MAR-13-04,3B-S,3B-S-31,"Harding, Mitzi",2016-05-18,0,3,11,4,1,"TWO SPP OF AMSINKIA PRESENT WITHIN PLOT."
+MAR-13-04,3B-S,3B-S-31,"Halstrom, Grant",2018-04-30,,,4,7,1,
+MAR-13-04,3B-S,3B-S-31,"Mong, Catie",2021-05-06,2,,5,7,1,"2 species of HYGL and trifollium"
+MAR-13-04,3B-R,3B-R-62,"Harding, Mitzi",2016-05-19,6,10,10,2,1,"33M @143 DEGREES: Lower 2= AM*=partially decomposed animal manure above litter."
+MAR-13-04,3B-R,3B-R-62,"Halstrom, Grant",2018-05-02,1,3,9,1,1,
+MAR-13-04,3B-R,3B-R-62,"Eyestone, Bonnie",2021-04-29,5,4,6,3,1,"releve not complete"
+MAR-13-04,3B-R,3B-R-65,"Harding, Mitzi",2016-05-19,8,8,16,19,1,"There was currently grazing in this field, however the point is on a relatively steep rocky slope which clearly recieves minimal (or no) direct usage by the cattle."
+MAR-13-04,3B-R,3B-R-65,"Guntly, Katie",2018-05-02,,,,,,"NO RELEVE ON BACK OF LPI"
+MAR-13-04,3B-R,3B-R-65,"Mong, Catie",2021-04-29,7,5,6,6,1,"Dead grey pine. Lots of downed logs and rocks."
+MAR-13-04,3B-H,3B-H-05,"Harding, Mitzi",2016-05-18,9,13,8,9,1,"16-19m @174 degrees in overgrown access road. 2 spp. Of Acmispon (lotus) observed in plot"
+MAR-13-04,3B-H,3B-H-05,"Halstrom, Grant",2018-05-01,15,6,4,7,,"no grazing"
+MAR-13-04,3B-H,3B-H-05,"Mong, Catie",2021-04-30,9,11,3,14,1,"Unknown thistle"
+MAR-13-04,3B-T,3B-T-47,"Harding, Mitzi",2016-05-05,6,14,17,21,0,"TO BE GRAZED EARLY JUNE FOR SHORT DURATION"
+MAR-13-04,3B-T,3B-T-47,"Guntly, Katie",2018-05-02,4,5,6,28,,"OLD COW PIES; VERY TALL, THICK GRASS + WEEDS"
+MAR-13-04,3B-U,3B-U-80,"Harding, Mitzi",2016-05-20,0,0,0,0,0,"two species of Lupinus, Plagiobothrys nothofulvus and another unknown Plagiobothrys present."
+MAR-13-04,3B-U,3B-U-80,"Guntly, Katie",2018-05-03,,,,,,
+MAR-13-04,3B-W,3B-W-09,"Harding, Mitzi",2016-05-18,12,35,13,9,1,"one dead Arctostaphylos in plot"
+MAR-13-04,3B-W,3B-W-09,"Guntly, Katie",2018-05-01,21,5,10,18,,
+MAR-13-04,3B-W,3B-W-09,"Noda, Sophie",2021-06-07,28,12,14,31,1,"dry, crispy plants"
+BUT-14-02,GRUP,GRUP-E1,"Wendt, Carrie",2017-06-09,,,,1,1,
+BUT-14-02,GRUP,GRUP-E1,"Halstrom, Grant",2019-05-13,5,8,6,1,1,
+BUT-14-02,GRUP,GRUP-E2,"Howard, Katharine",2016-04-26,0,0,0,0,1,
+BUT-14-02,GRUP,GRUP-E2,"Weverka, Jacob",2019-05-13,,,,,1,
+BUT-14-02,GRUP,GRUP-E3,"Weverka, Jacob",2019-05-13,13,47,7,4,1,"GPS point for goat grass"
+BUT-14-02,GRUP,GRUP-E4,"Howard, Katharine",2016-04-26,19,24,5,6,0,"VERY ROCKY."
+BUT-14-02,GRUP,GRUP-E4,"Wendt, Carrie",2018-04-24,18,,,2,,"rattle snake!"
+BUT-14-02,GRUP,GRUP-E5,"Wendt, Carrie",2017-06-09,,59,,2,1,
+BUT-14-02,GRUP,GRUP-E5,"Weverka, Jacob",2019-05-13,36,96,4,7,1,
+BUT-14-02,GRUP,GRUP-E6,"Wendt, Carrie",2018-04-24,2,3,2,1,1,
+BUT-14-02,GRUP,GRUP-N2,"Howard, Katharine",2016-04-15,0,0,1,1,1,LEWOs!
+BUT-14-02,GRUP,GRUP-N2,"Wendt, Carrie",2018-04-23,,,1,,1,
+BUT-14-02,GRUP,GRUP-N2,"Halstrom, Grant",2019-05-13,,,2,,1,
+BUT-14-02,GRUP,GRUP-N3,"Wendt, Carrie",2017-06-08,,47,,1,1,
+BUT-14-02,GRUP,GRUP-N3,"Halstrom, Grant",2019-05-13,8,16,29,1,1,
+BUT-14-02,GRUP,GRUP-N4,"Wendt, Carrie",2017-04-28,,,,,1,
+BUT-14-02,GRUP,GRUP-N4,"Wendt, Carrie",2019-05-13,,,,,1,
+BUT-14-02,GRUP,GRUP-N5,"Wendt, Carrie",2017-04-28,,,,,1,
+BUT-14-02,GRUP,GRUP-N5,"Wendt, Carrie",2019-05-13,,,,,1,
+BUT-14-02,GRUP,GRUP-S1,"Howard, Katharine",2016-04-15,0,0,0,0,1,"Part of plot is in keyline study plot."
+BUT-14-02,GRUP,GRUP-S1,"Wendt, Carrie",2018-04-23,,,,,1,
+BUT-14-02,GRUP,GRUP-W1,"Howard, Katharine",2016-04-14,0,0,0,0,1,
+BUT-14-02,GRUP,GRUP-W1,"Wendt, Carrie",2018-04-23,,,,,1,
+BUT-14-02,GRUP,GRUP-W2,"Reese, Nathan",2016-04-14,0,0,0,0,1,
+BUT-14-02,GRUP,GRUP-W2,"Weverka, Jacob",2019-05-15,,,,,1,
+BUT-14-02,GRUP,GRUP-W3,"Reese, Nathan",2016-04-14,0,0,0,0,1,
+BUT-14-02,GRUP,GRUP-W3,"Halstrom, Grant",2019-05-15,,,,,1,
+NEV-13-02,ELRA,ELRA-02,"Weintraub , Kelly",2016-05-20,0,0,0,0,1,
+NEV-13-02,ELRA,ELRA-03,"Weintraub , Kelly",2016-04-26,6,18,8,2,0,"Very light grazing"
+NEV-13-02,ELRA,ELRA-14,"Weintraub , Kelly",2016-05-20,1,3,9,0,0,
+NEV-13-02,ELRA,ELRA-17,"Weintraub , Kelly",2016-04-26,58,40,6,4,0,"Light wildlife grazing"
+NEV-15-01,BARH,BARH-01,"Weintraub , Kelly",2015-05-01,0,0,5,0,1,
+NEV-15-01,BARH,BARH-01,"Weintraub , Kelly",2018-05-07,2,2,3,,1,
+NEV-15-01,BARH,BARH-01,"Easley, Madison",2021-05-13,,,4,1,1,"Heavily grazed irrigated pasture"
+NEV-15-01,BARH,BARH-02,"Weintraub , Kelly",2017-05-02,2,1,10,,,
+NEV-15-01,BARH,BARH-02,"Easley, Madison",2021-05-13,3,6,16,,1,"Very heavily grazed. Producer mentioned he seeded area with a no-till drill during the previous fall. Grasses and forbs are very short. Evidence of continuous grazing without rotation or much rest this time of year."
+NEV-15-01,BARH,BARH-04,"Weintraub , Kelly",2016-04-29,300,82,46,9,0,"This site will be thinned in the near future"
+TUL-15-02,RRRA,RRRA-01,"Eyestone, Bonnie",2016-05-03,15,16,4,18,1,"Large slabs of granite. All manzanita dead."
+TUL-15-02,RRRA,RRRA-01,"Weverka, Jacob",2019-05-01,9,15,8,10,1,
+TUL-15-02,RRRA,RRRA-01,"Garcia, Dabid",2022-04-07,9,11,2,9,,
+TUL-15-02,RRRA,RRRA-04,"Swanson, Ryan",2016-05-04,27,25,9,11,0,
+TUL-15-02,RRRA,RRRA-04,"Weverka, Jacob",2019-05-01,8,33,5,10,1,
+TUL-15-02,RRRA,RRRA-04,"Garcia, Dabid",2022-04-07,8,4,3,12,,
+TUL-15-02,RRRA,RRRA-11,"Swanson, Ryan",2016-05-04,25,41,5,9,1,
+TUL-15-02,RRRA,RRRA-11,"Weverka, Jacob",2019-05-01,17,16,1,14,1,
+TUL-15-02,RRRA,RRRA-11,"Garcia, Dabid",2022-04-07,12,8,3,5,1,
+NEV-13-01,ELST,ELST-01,"Weintraub , Kelly",2016-05-20,40,20,8,4,0,
+NEV-13-01,ELST,ELST-01,"Weintraub , Kelly",2018-05-08,72,56,8,3,,
+NEV-13-01,ELST,ELST-01,"Noda, Sophie",2021-05-11,,,,,1,"29-50 on 93 degree line is on a skid trail. BROMU=unknown brome, maybe bromus rubens. line on ridge top, very shady."
+NEV-13-01,ELST,ELST-03,"Weintraub , Kelly",2016-04-28,84,30,33,1,1,"Pigs have been pastured here in the last year. Was grazed by sheep in January. Erigated aboe site and seeps through site. Site has shallow soil and has many wetland species."
+NEV-13-01,ELST,ELST-03,"Noda, Sophie",2022-04-26,37,48,12,5,1,"irrigated pasture on north and NW side of 50 m circle edges. don't recommend resampling this point. On road for points 10-12 on 95 degree line. Stopped at point 45 on 95 degree line because of fence and pt 43 on 275 degree line because of blackberry wall"
+NEV-13-01,ELST,ELST-06,"Shake, Corey",2016-05-20,0,13,2,0,1,
+NEV-13-01,ELST,ELST-06,"Weintraub , Kelly",2018-05-08,,5,2,,,
+NEV-13-01,ELST,ELST-06,"Easley, Madison",2021-05-11,,,,,1,
+BUT-15-02,WORA,WRSW-03,"Wendt, Carrie",2017-04-19,,,,,1,
+BUT-15-02,WORA,WRSW-03,"Wendt, Carrie",2019-04-26,,,,,1,
+BUT-15-02,WORA,WR-S-02,"Wendt, Carrie",2017-04-05,,,,,,
+BUT-15-02,WORA,WR-S-02,"Wendt, Carrie",2019-04-26,,,,,1,
+BUT-15-02,WORA,WR-S-03,"Wendt, Carrie",2017-04-20,,,,,,
+BUT-15-02,WORA,WR-S-03,"Wendt, Carrie",2019-04-26,,,,,1,
+BUT-15-02,WORA,WRWT-02,"Wendt, Carrie",2017-04-20,,,,,,
+BUT-15-02,WORA,WRWT-02,"Wendt, Carrie",2019-05-16,,,,,1,"gopher snake"
+BUT-15-02,WORA,WR-W-03,"Wendt, Carrie",2017-04-19,,,,,1,
+BUT-14-02,GRUP,GRUP-S3,"Wendt, Carrie",2017-06-08,,12,,1,1,
+BUT-14-02,GRUP,GRUP-S3,"Weverka, Jacob",2019-05-15,5,5,9,,1,
+GLE-15-28,TCUP,TCUP-02,"Martin, Ben",2015-07-05,,,,2,1,"No data on tree DBH. Transect crosses drainage; pond directly to the north of transect"
+GLE-15-28,TCUP,TCUP-05,"Halstrom, Grant",2018-05-31,11,14,10,1,1,
+GLE-15-28,TCUP,TCUP-05,"Garcia, Dabid",2022-04-11,15,8,14,2,1,
+GLE-15-28,TCUP,TCUP-08,"Halstrom, Grant",2018-05-31,4,18,4,11,1,
+GLE-15-28,TCUP,TCUP-08,"Garcia, Dabid",2022-04-11,6,20,11,4,1,
+GLE-15-28,TCUP,TCUP-09,"Swanson, Ryan",2016-04-06,,,,,1,
+GLE-15-28,TCUP,TCUP-10,"Martin, Ben",2015-07-15,,,,,1,
+GLE-15-28,TCUP,TCUP-10,"Halstrom, Grant",2018-05-31,,,,,1,
+GLE-15-28,TCUP,TCUP-10,"Garcia, Dabid",2022-04-11,,,,,1,
+GLE-15-28,TCUP,TCUP-12,"Martin, Ben",2016-04-05,,,,,1,
+GLE-15-28,TCUP,TCUP-16,"Martin, Ben",2016-04-05,,1,8,,1,
+ELD-15-01,FOWE,FOWE-03,"Fogg, Alissa",2018-05-23,3,,4,,,"No grazing this growing season. Transects are in two different pastures, point was on a fenceline. 2nd transect, pasture does not appear to have been grazed in a long time."
+ELD-15-01,FOWE,FOWE-03,"Fogg, Alissa",2021-05-21,2,3,11,,1,"2018 QUDO should be QULO. 244 degree transect goes into ungrazed pasture at 10 m"
+ELD-15-01,FOWE,FOWE-06,"Fogg, Alissa",2018-05-23,34,25,15,1,1,"Oak woodland with steep live oak north-facing slope taking up ~50% of plot. Likely more native forbs and grasses but we ran out of time."
+ELD-15-01,FOWE,FOWE-06,"Fogg, Alissa",2021-05-20,12,37,19,,1,
+ELD-15-01,FOWE,FOWE-07,"Fogg, Alissa",2018-05-23,1,1,1,,1,"Active grazing, had to chase cows away. Unknown trifolium has white flowers, 20cm tall, serated leaves 1cm long."
+ELD-15-01,FOWE,FOWE-07,"Noda, Sophie",2021-05-20,,1,1,,1,"live oak 6 stems below DBH all >38 cm"
+ELD-15-01,FOWE,FOWE-09,"Fogg, Alissa",2018-05-23,,,3,,,"Does not appear to be grazed this growing season. Transects are in two different pastures."
+ELD-15-01,FOWE,FOWE-09,"Noda, Sophie",2021-05-20,,,,,1,"Need to assess trees (but no shrubs likely). Did not do second direction because it crossed a fence line with different management."
+ELD-15-01,FOEA,FOEA-13,"Fogg, Alissa",2018-05-24,16,16,3,1,1,"Small fire/burn pile within the plot on 2nd LPI survey. Bare ground is evident and sprouting shrubs such as yerba santa."
+ELD-15-01,FOEA,FOEA-13,"Noda, Sophie",2021-05-21,10,6,11,,,
+ELD-15-01,FOEA,FOEA-18,"Fogg, Alissa",2018-05-24,12,5,6,,1,"Grown over ranch road runs through plot."
+ELD-15-01,FOEA,FOEA-18,"Noda, Sophie",2021-05-21,9,18,2,,,"not grazed since 2019"
+TEH-15-01,ELDE,ELDE-03,"Young, Alicia",2016-05-17,348,44,12,0,0,
+TEH-15-01,ELDE,ELDE-10,"Young, Alicia",2016-05-17,31,14,14,0,0,
+TEH-15-01,ELDE,ELDE-11,"Young, Alicia",2016-05-17,38,22,2,0,0,
+YOL-14-05,TFOW,TF03-AS,"Shake, Corey",2016-05-25,35,44,6,2,1,"DIVERSITY HIGH - SEARCH FOR 25 MIN"
+YOL-14-05,TFOW,TF03-AS,"Shake, Corey",2017-06-09,46,34,12,1,1,"Most plants except perennials and late season annual are pretty and hard to find.  Estimated weed/other cover:  NAPU4 = 5%, MECA2 =<1%."
+YOL-14-05,TFOW,TF03-AS,"Shake, Corey",2018-05-16,43,25,18,4,1,"GALIUM was a native perennial"
+YOL-14-05,TFOW,TF03-AS,"Noda, Sophie",2021-05-24,47,46,41,9,1,"plant search was 34-38 min approx. Plot burned last summer in LNU complex fire. part of plot was bulldozed in attempted control line"
+YOL-14-05,TFGR,TF04-AS,"Shake, Corey",2016-05-04,0,0,0,0,0,"not yet this year but in previous seasons, yes"
+YOL-14-05,TFGR,TF04-AS,"Shake, Corey",2017-05-08,,,,,1,"Not recently grazed"
+YOL-14-05,TFGR,TF04-AS,"Shake, Corey",2019-06-24,,,,,1,"Not recently grazed, but probably early fall 2018."
+YOL-14-05,TFGR,TF04-AS,"Shake, Corey",2021-05-24,,,,,1,"Not grazed much late winter or spring- perennial PHAQ not showing signs of grazing. Soil at 13, 17, 18 is actually white chalky powder spread/dumped in field-maybe gypsum?"
+YOL-14-05,TFGR,TF09-AE,"Shake, Corey",2016-05-10,0,0,0,0,1,"maybe grazed early and lightly"
+YOL-14-05,TFGR,TF09-AE,"Shake, Corey",2017-05-08,,,,,1,"LPI DATA ENTERED INCONSISTENT WITH 2016.  FIRST DIRECTION TRANSECT SHOULD BE DATA FROM 114 DEGREE TRANSECT.  DIDN'T REENTER CONSISTENTLY, BUT TAKE CARE WHEN ANALYZING DATA. Visual estimate of % cover within 50m: CESO3 = 1.  Not grazed recently but definitely this winter"
+YOL-14-05,TFGR,TF09-AE,"Shake, Corey",2021-05-24,,,,,1,"despite being quite abundant, TACA8 has little to no seed production in this very dry water year"
+YOL-14-05,TFGR,TF09-AW,"Shake, Corey",2016-05-18,0,0,1,0,1,"grazed lightly early winter or fall"
+YOL-14-05,TFGR,TF09-AW,"Shake, Corey",2017-05-08,,,1,,1,
+YOL-14-05,TFGR,TF09-AW,"Shake, Corey",2018-05-03,,,1,,1,"AETR 3%,  TACA8 4%, HOMU 8%,  BRDI3 7%, CESO3  4%, 2FA is an annual forb in family Apiaceae."
+YOL-14-05,TFGR,TF09-AW,"Noda, Sophie",2021-05-24,,,1,,1,"10 degrees off to the South on the E transect- used compass, apparently declination was off-used GPS to get 10 degree deviation"
+YOL-14-05,TFGR,TF10-AN,"Shake, Corey",2016-05-18,0,0,0,0,1,
+YOL-14-05,TFGR,TF10-AN,"Shake, Corey",2017-05-08,,,,,1,"Visual estimate of % cover within 50m: TACA8 < 1, AETR < 1.  Not recently grazed- maybe fall or early winter"
+YOL-14-05,TFGR,TF10-AN,"Shake, Corey",2021-05-21,,,,,1,"fairly heavy grazing (RDM ~300-1000 lbs/ac) in low rainfall year"
+YOL-15-01,HHKY,HHKY-01,"Shake, Corey",2016-04-20,0,0,0,0,1,"Field has been signifcantly grazed up until today, makes ID on plants difficult & plant height signigfcantly lower, 100m from H2O trough. CESO3 still in rosette/ seedling stage- small, under counted."
+YOL-15-01,HHKY,HHKY-01,"Shake, Corey",2019-04-26,,,,,1,"Currently being grazed; lots of trampling; grazed low."
+YOL-15-01,HHKY,HHKY-01,"Garcia, Dabid",2022-04-29,,,,,1,
+YOL-15-01,HHKY,HHKY-07,"Shake, Corey",2016-06-10,0,0,4,0,1,"Grazing pressure reduced this year from last, CESO3 very abundant (about 55% absolute cover) but mostly in understory, about 20cm on hillside"
+YOL-15-01,HHKY,HHKY-07,"Shake, Corey",2017-04-27,1,,4,,1,"EPILO is annual forb.  Field very lightly grazed, probably only when animals were moved through or escaped into this field, but activity minimal and occurred in Dec/Jan.  Visual estimates of invasive plant cover (%):  AETR ~4, CAPY2 ~4, CESO3 ~16, TACA8 ~4."
+YOL-15-01,HHKY,HHKY-07,"Shake, Corey",2019-05-29,,,4,,1,"Searched for 26 min because variable terrain, and veg community with relatively high species diversity."
+YOL-15-01,HHKY,HHKY-07,"Le, My-Lan",2022-04-29,,,4,,1,"Using magnetic north this year (per protocol) adjusts transects ~10m clockwise from location in all previous years, but still falls roughly under same QUDO canopy. Species search (releve) was 26 minutes long."
+YOL-15-01,HHKY,HHKY-08,"Le, My-Lan",2022-04-29,,,,,1,
+TUL-15-01,BUCK,BUCK-06,"Eyestone, Bonnie",2016-05-03,75,28,9,16,1,
+TUL-15-01,BUCK,BUCK-06,"Weverka, Jacob",2019-05-02,69,55,14,9,1,"Cattle absent 2/25 - 4/10"
+TUL-15-01,BUCK,BUCK-06,"Garcia, Dabid",2022-04-06,48,46,8,20,,
+TUL-15-01,BUCK,BUCK-08,"Eyestone, Bonnie",2016-05-03,24,16,19,7,1,
+TUL-15-01,BUCK,BUCK-08,"Weverka, Jacob",2019-05-02,39,59,8,19,1,"Extra recovery time this year: cattle absent 2/25-4/10 - change in management"
+TUL-15-01,BUCK,BUCK-08,"Garcia, Dabid",2022-04-06,34,72,19,26,,
+FRE-14-01,MCPR,MCPRR2R,"Eyestone, Bonnie",2016-04-22,0,0,8,2,0,"This area is monitored through both the RMN and Rancher to Rancher program.  The goal is to reduce BRDI3 cover and increase perennial grasses and native plants. The ~3 acre pasture was intensively flash grazed for ~1 hr mid March. Also, a few data from the releve are missing from puppy chewing data sheet :("
+FRE-14-01,MCPR,MCPRR2R,"Swanson, Ryan",2018-04-19,6,4,11,3,1,
+FRE-14-01,MCPR,MCPRR2R,"Garcia, Dabid",2022-04-05,7,9,6,1,1,"Creek had water in it."
+TUL-15-03,HOMR,HOMR-20,"Eyestone, Bonnie",2016-04-27,5,19,7,1,1,"SUMMER GRAZING"
+TUL-15-03,HOMR,HOMR-20,"Weverka, Jacob",2019-04-30,17,16,7,10,1,"CALAN is calandrinia menziesii but there is no code for it...."
+TUL-15-03,HOMR,HOMR-22,"Eyestone, Bonnie",2016-04-14,0,0,0,0,1,"SEPT-FEB GRAZING"
+TUL-15-03,HOMR,HOMR-22,"Weverka, Jacob",2019-04-30,,,,,1,
+TUL-15-03,HOMR,HOMR-22,"Noda, Sophie",2022-04-07,,,,,,"Maybe grazing this season"
+TUL-15-03,HOMR,HOMR-31,"Weverka, Jacob",2019-04-30,93,36,8,20,,
+TUL-15-03,HOMR,HOMR-36,"Weverka, Jacob",2019-04-30,24,21,8,24,1,
+TUL-15-03,HOMR,HOMR-45,"Eyestone, Bonnie",2016-05-05,91,39,11,18,1,"BEEHIVE IN LARGE DIAMETER BLUE OAK"
+TUL-15-03,HOMR,HOMR-45,"Weverka, Jacob",2019-05-03,84,30,9,28,1,"Grazing is light due to steep slope"
+TUL-15-03,HOMR,HOMR-45,"Noda, Sophie",2022-04-07,63,64,16,29,,
+TUL-15-03,HOMR,HOMR-70,"Eyestone, Bonnie",2016-04-26,40,60,0,70,0,"GRAZING SEPT-FEB. MASS BLUE OAK MORTALITY"
+TUL-15-03,HOMR,HOMR-70,"Weverka, Jacob",2019-05-03,18,14,,189,1,"Light grazing. Massive tree mortaliting, N-facing slope"
+TUL-15-03,HOMR,HOMR-70,"Noda, Sophie",2022-04-07,3,17,1,64,,"insanely high QUDO mortality"
+"Yolo County",YOL-14-04,BR05,"Shake, Corey",2016-05-13,0,0,0,0,1,"grazed lightly,early by 2 bulls for a very large area (about 200 acres) through one short area on LPI is a bedding area for acttle"
+YOL-14-03,YLGR,YL18-TR,"Shake, Corey",2017-05-30,,,,,1,"Visual estimate of % cover within 50m: ELGL < 1, NAPU4 = 8, BRAL2 < 1, AETR = 38.  Grazed early in the season, before April 15; relatively high growth. Noticeably ample populations of grasshoppers; and med-size orange/red/black wasps, and large black/grey hover fly (or maybe bee, or maybe parasitoid) - both patrolling grassland (not visiting flowers)"
+YOL-14-03,YLGR,YL18-TR,"Swanson, Ryan",2018-05-09,,,,,1,
+YOL-14-03,YLGR,YL18-TR,"Shake, Corey",2019-05-08,,,,,1,
+YOL-14-03,YLGR,YL18-TR,"Noda, Sophie",2021-05-06,,,,,1,"On East transect: Burned in wildfire 0-18 m, tire track road/dozer line 19-23 m, unburned 24-50 m Heavy grazing on flat near where they were feeding hay (at YL18-CL)"
+YOL-14-03,YLGR,YL18-TR,"Garcia, Dabid",2022-04-27,,,,,1,"Appears ungrazed in at least the last few months- maybe grazed in fall/Dec. 2/3 of plot burned 2 years ago. Plant search was 26 minutes because of high diversity."
+LAS-13-10,WDRA,WDRA-03,"Russell, Tiffany",2016-05-24,0,0,3,0,0,"Juniper is being removed from this site"
+LAS-13-10,WDRA,WDRA-03,"Russell, Tiffany",2017-05-24,6,,,,1,"cows in from early april to day before survey, appoximately 30"
+LAS-13-10,WDRA,WDRA-05,"Russell, Tiffany",2016-05-24,0,0,0,1,1,"grazed last summer.  arbitrary direction grouping assigned on import, no compass direction recorded with access database dump"
+LAS-13-10,WDRA,WDRA-05,"Russell, Tiffany",2017-05-24,3,,,1,1,"early spring grazing april to may for cheatgrass control"
+LAS-13-10,WDRA,WDRA-06,"Russell, Tiffany",2016-05-24,0,0,0,0,1,"late summer"
+LAS-13-10,WDRA,WDRA-07,"Russell, Tiffany",2016-05-17,7,,,,1,"Perennial stream runs though plot. Lots of tiny juniper"
+LAS-13-10,WDRA,WDRA-08,"Russell, Tiffany",2016-05-17,4,6,5,,1,"Last year grazing used around transect, wetter area near spring are better"
+"SHA-15-08 N",ROSS,ROSS-02,"Herrera, Alicia",2017-05-11,,,1,,1,
+"SHA-15-08 N",ROSS,ROSS-02,"Herrera, Alicia",2020-05-07,,,1,,1,"Controlled grazing."
+"SHA-15-08 N",ROSS,ROSS-03,"Young, Alicia",2016-05-02,0,0,0,0,0,
+"SHA-15-08 N",ROSS,ROSS-03,"Herrera, Alicia",2017-05-11,,,,,1,
+"SHA-15-08 N",ROSS,ROSS-11,"Young, Alicia",2016-05-02,3,15,21,2,0,
+"SHA-15-08 N",ROSS,ROSS-11,"Herrera, Alicia",2017-05-11,9,18,12,8,1,
+"SHA-15-08 N",ROSS,ROSS-13,"Young, Alicia",2016-05-19,298,38,22,2,0,
+"SHA-15-08 N",ROSS,ROSS-13,"Herrera, Alicia",2017-05-12,278,62,24,2,,
+"SHA-15-08 N",ROSS,ROSS-13,"Herrera, Alicia",2020-05-07,302,148,52,4,1,
+"SHA-15-08 N",ROSS,ROSS-13,"Garcia, Dabid",2022-05-05,204,26,21,2,,
+"SHA-15-08 N",ROSS,ROSS-14,"Young, Alicia",2016-05-02,138,56,24,2,0,
+"SHA-15-08 N",ROSS,ROSS-14,"Herrera, Alicia",2017-05-12,116,67,29,4,,
+"SHA-15-08 N",ROSS,ROSS-14,"Herrera, Alicia",2020-05-07,,,,,1,
+"SHA-15-08 N",ROSS,ROSS-14,"Garcia, Dabid",2022-05-04,124,76,47,3,,
+MER-16-01,CUUP,CURA-04,"Rives, Aaron",2017-05-19,,,,,,
+MER-16-01,CUUP,CURA-04,"Fridrich, Taylor",2019-04-19,,,,,1,
+MER-16-01,CUUP,CURA-14,"Rives, Aaron",2017-05-30,,,,,1,"no shrubs or trees on this ranch"
+MER-16-01,CUUP,CURA-14,"Fridrich, Taylor",2019-04-19,,,,,1,
+"SHA-15-08 N",STWA,STWA-09,"Marsh, Kyle",2018-04-24,,,,,1,
+NEV-16-01,FORD,FORD-01,"Weintraub , Kelly",2017-05-01,75,25,6,1,,
+NEV-16-01,FORD,FORD-02,"Weintraub , Kelly",2016-04-27,9,6,1,0,0,"DICH species had heads grazed"
+NEV-16-01,FORD,FORD-02,"Weverka, Jacob",2019-05-22,29,22,1,2,1,
+NEV-16-01,FORD,FORD-02,"Noda, Sophie",2022-04-25,18,20,9,5,1,
+NEV-16-01,FORD,FORD-03,"Weintraub , Kelly",2016-04-25,24,29,21,2,0,
+NEV-16-01,FORD,FORD-03,"Weverka, Jacob",2019-05-22,61,52,12,7,1,
+NEV-16-01,FORD,FORD-03,"Noda, Sophie",2022-04-25,10,39,19,7,1,
+NEV-16-01,FORD,FORD-05,"Weintraub , Kelly",2016-04-27,11,3,2,2,0,
+NEV-16-01,FORD,FORD-05,"Weverka, Jacob",2019-05-22,63,13,5,7,1,
+NEV-16-01,FORD,FORD-05,"Noda, Sophie",2022-04-25,22,39,10,7,1,
+NEV-16-01,FORD,FORD-10,"Weintraub , Kelly",2017-05-01,68,24,8,1,,
+NEV-16-01,FORD,FORD-11,"Weintraub , Kelly",2018-05-07,,,4,,,
+NEV-16-01,FORD,FORD-11,"Noda, Sophie",2022-04-28,,1,3,,1,
+MRN-16-01,HMRA,HMRA-01,"DiGaudio, Ryan",2017-06-09,,,,,1,"LIGHTLY GRAZED IN PAST YEAR"
+MRN-16-01,HMRA,HMRA-01,"DiGaudio, Ryan",2020-05-05,,,,,1,
+MRN-16-01,HMRA,HMRA-09,"DiGaudio, Ryan",2017-05-05,,,,,1,"lightly grazed past several months"
+MRN-16-01,HMRA,HMRA-09,"DiGaudio, Ryan",2020-05-05,,,,,1,
+MRN-16-01,HMRA,HMRA-10,"DiGaudio, Ryan",2017-05-09,,,,,1,"Grazed very lightly in past year"
+MRN-16-01,HMRA,HMRA-10,"DiGaudio, Ryan",2020-05-08,,,,,1,
+MRN-16-01,HMRA,HMRA-10,"DiGaudio, Ryan",2020-05-08,,,,,,
+MRN-16-01,HMRA,HMRA-12,"DiGaudio, Ryan",2017-05-30,,,,,1,"Grazed lightly (if at all) in past several months."
+MRN-16-01,HMRA,HMRA-12,"DiGaudio, Ryan",2020-04-29,,,,,1,"Grazed every 3-4 weeks for ~4 days"
+TUL-16-01,SHBR,SHBR-001,"Eyestone, Bonnie",2017-06-20,55,67,16,16,,
+TUL-16-01,SHBR,SHBR-025,"Eyestone, Bonnie",2017-05-18,124,21,38,9,,
+TUL-16-01,SHBR,SHBR-029,"Eyestone, Bonnie",2017-05-18,6,17,,9,,
+TUL-16-01,SHBR,SHBR-031,"Eyestone, Bonnie",2017-05-17,12,12,4,4,1,
+TUL-16-01,SHBR,SHBR-032,"Eyestone, Bonnie",2017-05-01,5,5,6,2,1,
+TUL-16-01,SHBR,SHBR-036,"Eyestone, Bonnie",2017-05-17,3,9,,,1,
+TUL-16-01,SHBR,SHBR-068,"Eyestone, Bonnie",2017-04-27,,1,1,1,1,
+TUL-16-01,SHBR,SHBR-076,"Eyestone, Bonnie",2017-04-03,,1,,1,1,"CURRENTLY GRAZING"
+TUL-16-01,SHBR,SHBR-195,"Eyestone, Bonnie",2017-04-03,1,1,,,,
+TUL-15-01,BUCK,BUCK-P1,"Eyestone, Bonnie",2016-05-02,63,37,7,28,1,
+TUL-15-01,BUCK,BUCK-P1,"Weverka, Jacob",2019-05-02,152,51,3,31,1,"Cattle absent 2/25 - 4/10 Rancher thinks he has Stipa pulchra. It is actually Stipa cernua."
+TUL-15-01,BUCK,BUCK-P1,"Garcia, Dabid",2022-04-06,73,90,25,34,,"West transect goes through S. pulchra exclosure as per Jim's memory. Directions different from previous sampling event."
+MRN-15-03,LM-W,LM-W-01,"Winquist, Suzanne",2016-05-31,0,0,0,0,0,
+MRN-15-03,LM-W,LM-W-01,"Winquist, Suzanne",2017-06-30,,,,,,
+MRN-15-03,LM-W,LM-W-06,"Winquist, Suzanne",2016-05-09,,,,,1,
+MRN-15-03,LM-W,LM-W-06,"Winquist, Suzanne",2017-06-30,,,,,,
+MRN-15-04,SCRA,SCRA-02,"Winquist, Suzanne",2016-06-23,0,0,0,0,1,
+MRN-15-04,SCRA,SCRA-02,"Winquist, Suzanne",2019-05-10,,,,,1,
+MRN-15-04,SCRA,SCRA-02,"Garcia, Dabid",2022-05-19,,,,,,
+MRN-15-04,SCRA,SCRA-03,"Winquist, Suzanne",2016-06-02,0,0,0,0,1,
+MRN-15-04,SCRA,SCRA-03,"Winquist, Suzanne",2019-05-10,,,,,1,
+MRN-15-04,SCRA,SCRA-03,"Garcia, Dabid",2022-05-19,,,,,,
+MRN-15-04,SCRA,SCRA-09,"Winquist, Suzanne",2016-06-02,0,0,0,0,0,
+MRN-15-04,SCRA,SCRA-09,"Winquist, Suzanne",2019-05-10,,,1,,1,
+MRN-15-04,SCRA,SCRA-09,"Garcia, Dabid",2022-05-19,,,,,,
+MRN-15-02,TG-S,TG-S-06,"Winquist, Suzanne",2016-05-23,0,0,0,0,1,
+MRN-15-02,TG-S,TG-S-06,"Winquist, Suzanne",2017-06-23,,,,,1,
+MRN-15-02,TG-N,TG-N-08,"Winquist, Suzanne",2016-05-25,0,0,0,0,1,
+MRN-15-02,TG-N,TG-N-08,"Winquist, Suzanne",2017-06-05,,,,,1,
+MRN-15-02,TG-N,TG-N-11,"Winquist, Suzanne",2016-05-25,0,0,0,0,1,
+MRN-15-02,TG-N,TG-N-11,"Winquist, Suzanne",2017-06-05,,,,,1,
+SON-15-03,BRRA,BRRA-01,"Winquist, Suzanne",2016-06-08,0,0,0,0,0,
+SON-15-03,BRRA,BRRA-01,"Winquist, Suzanne",2017-06-06,,,,,1,
+SON-15-03,BRRA,BRRA-01,"Weverka, Jacob",2019-06-13,3,2,8,,,"48-50 on 248 degree direction are off a cliff"
+SON-15-03,BRRA,BRRA-04,"Winquist, Suzanne",2017-06-06,15,7,25,,,"NO GRAZING EXCEPT DEER BROWSE"
+SON-15-03,BRRA,BRRA-06,"Winquist, Suzanne",2016-05-11,,,,,,
+SON-15-03,BRRA,BRRA-06,"Winquist, Suzanne",2017-05-31,31,2,5,,,"Site not grazed scince fall 2016"
+SON-15-03,BRRA,BRRA-06,"Weverka, Jacob",2019-06-13,108,10,17,,,
+SON-15-03,BRRA,BRRA-08,"Winquist, Suzanne",2016-05-11,,,,,,
+SON-15-03,BRRA,BRRA-08,"Winquist, Suzanne",2017-06-06,,,,,1,
+SON-15-03,BRRA,BRRA-08,"Weverka, Jacob",2019-06-13,,,,,1,"Lots of NAPU4 and DACA3"
+SON-15-03,BRRA,BRRA-09,"Winquist, Suzanne",2016-06-08,0,0,0,0,1,
+SON-15-03,BRRA,BRRA-09,"Winquist, Suzanne",2017-05-30,,,,,,
+SON-15-03,BRRA,BRRA-09,"Weverka, Jacob",2019-06-13,,,,,,
+SON-15-05,SM-N,SM-N-04,"Winquist, Suzanne",2016-06-10,0,0,1,1,1,
+SON-15-05,SM-N,SM-N-04,"Winquist, Suzanne",2017-06-14,1,,2,1,1,
+SON-15-05,SM-N,SM-N-04,"Winquist, Suzanne",2019-05-09,,,11,,1,
+SON-15-05,SM-N,SM-N-04,"Garcia, Dabid",2022-05-13,,,2,,,
+SON-15-05,SM-S,SM-S-01,"Winquist, Suzanne",2017-06-07,,,,,1,
+SON-15-05,SM-S,SM-S-01,"Winquist, Suzanne",2019-05-09,,,,,1,
+SON-15-05,SM-S,SM-S-02,"Winquist, Suzanne",2016-05-20,0,0,0,0,1,
+SON-15-05,SM-S,SM-S-02,"Winquist, Suzanne",2017-05-18,,,,,1,
+SON-15-05,SM-S,SM-S-02,"Winquist, Suzanne",2019-05-09,,,,,,
+SON-15-05,SM-S,SM-S-02,"Garcia, Dabid",2022-05-13,,,,,,
+SON-15-05,SM-N,SM-N-08,"Winquist, Suzanne",2016-05-20,,,1,1,,"Drainage flowing through 50m circle. Some water. Severeal unidentified forbs"
+SON-15-05,SM-N,SM-N-08,"Winquist, Suzanne",2017-06-07,,,,,1,
+SON-15-05,SM-N,SM-N-08,"Halstrom, Grant",2019-05-09,,,,,,
+SON-15-05,SM-N,SM-N-08,"Garcia, Dabid",2022-05-13,,,1,,1,
+YOL-14-01,PR01,PR01-01,"Shake, Corey",2016-04-26,0,0,0,0,1,"Recently/currently grazed- evident that this area is used regularly - soil also feels quite compacted"
+MRN-15-02,TGGA,TGGA-03,"Winquist, Suzanne",2017-05-15,,,,,1,
+MRN-15-02,TGGA,TGGA-03,"Halstrom, Grant",2020-05-29,,,,,,
+MRN-15-02,TGGA,TGGA-03,"Garcia, Dabid",2022-05-20,,,,,,
+MRN-15-02,TGGA,TGGA-05,"Winquist, Suzanne",2017-05-16,,,,,1,
+MRN-15-02,TGGA,TGGA-05,"Halstrom, Grant",2020-05-29,,,,,,
+MRN-15-02,TGGA,TGGA-05,"Garcia, Dabid",2022-05-20,,,,,,"Plants blown over into mats due to wind."
+ALA-17-01,GARA,GARA-01,"Marsh, Kyle",2017-04-27,,,,,1,
+ALA-17-01,GARA,GARA-02,"Marsh, Kyle",2017-04-27,,6,,,1,
+ALA-17-01,GARA,GARA-03,"Marsh, Kyle",2017-04-27,,,,,1,
+ALA-17-01,GARA,GARA-04,"Marsh, Kyle",2017-04-27,,,,,1,
+ALA-17-01,GARA,GARA-05,"Marsh, Kyle",2017-05-26,,,,,1,
+ALA-17-01,GARA,GARA-07,"Marsh, Kyle",2017-05-23,,,,,1,
+ALA-17-01,GARA,GARA-08,"Marsh, Kyle",2017-05-24,,,,,1,
+ALA-17-01,GARA,GARA-09,"Marsh, Kyle",2017-05-23,,1,1,,1,
+ALA-17-01,GARA,GARA-10,"Marsh, Kyle",2017-05-24,,,,,1,"Malta thistle abundant."
+ALA-17-02,NELS,NELS-01,"Marsh, Kyle",2017-04-07,,,,,1,
+ALA-17-02,NELS,NELS-02,"Marsh, Kyle",2017-04-07,,,,,1,
+ALA-17-02,NELS,NELS-03,"Marsh, Kyle",2017-04-07,,,,,1,
+ALA-17-02,NELS,NELS-04,"Marsh, Kyle",2017-04-21,,,,,1,
+ALA-17-02,NELS,NELS-05,"Marsh, Kyle",2017-04-07,,,,,1,
+ALA-17-02,NELS,NELS-06,"Marsh, Kyle",2017-04-21,,,,,1,
+ALA-17-02,NELS,NELS-07,"Marsh, Kyle",2017-04-21,,,,,1,
+ALA-17-02,NELS,NELS-08,"Marsh, Kyle",2017-04-21,,,,,1,
+ALA-17-02,NELS,NELS-09,"Marsh, Kyle",2017-04-21,,,,,1,
+ELD-13-02,ELDO,ELDO-02,"Fogg, Alissa",2017-05-11,2,2,16,1,1,
+ELD-13-02,ELDO,ELDO-14,"Fogg, Alissa",2017-04-21,12,3,9,4,1,"15 MULTI-STEMMED QUWI2 COUNTED AS SINGLE TREES"
+ELD-13-02,ELDO,ELDO-16,"Fogg, Alissa",2017-04-25,,,17,,1,
+ELD-13-02,ELDO,ELDO-19,"Halstrom, Grant",2017-05-11,,,4,,1,
+ELD-13-02,ELDO,ELDO-29,"Fogg, Alissa",2017-04-21,3,3,19,,1,
+SOL-17-01,RUSH,RUSH-01,"Petersen, Luke",2017-05-05,,,,,,
+SOL-17-01,RUSH,RUSH-01,"Petersen, Luke",2018-06-06,,,,,1,"Gate open. no sign of significant recent grazing. Very defined and exclusive patches of TACA8, LOPEM2, or PHAQ."
+SOL-17-01,RUSH,RUSH-01,"Petersen, Luke",2019-05-16,,,,,,"No recent grazing. Patchy with MH + p aquaticus"
+SOL-17-01,RUSH,RUSH-01,"Petersen, Luke",2019-05-16,,,,,,"no recent grazing. patchy MH + Paquaticus"
+SOL-17-01,RUSH,RUSH-01,"Halstrom, Grant",2021-05-25,,,,,1,
+SOL-17-01,RUSH,RUSH-02,"Petersen, Luke",2017-05-05,,,,,1,"Both vulpias exist here."
+SOL-17-01,RUSH,RUSH-02,"Petersen, Luke",2018-06-06,,,,,1,"First direction: lots of AM, heavily trampled, but still lots of biomass."
+SOL-17-01,RUSH,RUSH-02,"Petersen, Luke",2019-05-16,,,,,1,"Most grazed point, same as last year. Patchy grazed. near fence/water"
+SOL-17-01,RUSH,RUSH-02,"Halstrom, Grant",2020-06-10,,,,,1,
+SOL-17-01,RUSH,RUSH-02,"Halstrom, Grant",2021-05-19,,,,,1,
+SOL-17-01,RUSH,RUSH-03,"Petersen, Luke",2017-04-27,,,,,,
+SOL-17-01,RUSH,RUSH-03,"Petersen, Luke",2018-06-06,,,,,1,"Cows moved out today. Lots of VUBR thatch. May be too late to observe most clover species and other forb diversity."
+SOL-17-01,RUSH,RUSH-03,"Petersen, Luke",2019-05-17,,,,,,
+SOL-17-01,RUSH,RUSH-03,"Halstrom, Grant",2020-06-10,,,,,1,
+SOL-17-01,RUSH,RUSH-03,"Halstrom, Grant",2021-05-19,,,,,1,
+SOL-17-01,RUSH,RUSH-03,"Le, My-Lan",2022-04-28,,,,,1,
+SOL-17-01,RUSH,RUSH-03,"Le, My-Lan",2022-04-28,,,,,1,
+SOL-17-01,RUSH,RUSH-04,"Petersen, Luke",2017-04-24,,,,,1,
+SOL-17-01,RUSH,RUSH-04,"Petersen, Luke",2018-06-04,,,,,1,"Animal manure present. This location has higher RDM than most of the pasture. Lots of yellow starthistle, not much medusa head."
+SOL-17-01,RUSH,RUSH-04,"Halstrom, Grant",2019-05-19,,,,,1,"Light grazing, calves present. Little recent impact apparent. Many Savannah Sp. Singing."
+SOL-17-01,RUSH,RUSH-04,"Halstrom, Grant",2021-05-19,,,,,1,
+SOL-17-01,RUSH,RUSH-05,"Petersen, Luke",2017-05-05,,,,,1,"Light grazing"
+SOL-17-01,RUSH,RUSH-05,"Petersen, Luke",2018-06-01,,,,,1,"Some manure. Lots of standing residual (1600 lbs/ac estimate)"
+SOL-17-01,RUSH,RUSH-05,"Weverka, Jacob",2019-05-16,,,,,1,
+SOL-17-01,RUSH,RUSH-05,"Halstrom, Grant",2021-05-25,,,,,1,
+SOL-17-01,RUSH,RUSH-12,"Petersen, Luke",2017-04-24,,,,,1,
+SOL-17-01,RUSH,RUSH-12,"Petersen, Luke",2018-06-04,,,,,1,"Points 15-18 on use road. Stockers in pasture now. Low to moderate RDM except MH which is widespread. Significant Phalaris cover, which seems to suppress MH. Most annual forbs are done flowering."
+SOL-17-01,RUSH,RUSH-12,"Petersen, Luke",2019-05-16,,,,,1,"patchy grazed Recent evidence."
+SOL-17-01,RUSH,RUSH-12,"Halstrom, Grant",2021-05-19,,,,,1,
+SOL-17-01,RUSH,RUSH-12,"Le, My-Lan",2022-04-28,,,,,1,
+SOL-16-01,WILC,WILC-02,"Petersen, Luke",2017-05-17,,,,,1,"No semaphore or Lemmons canary grass at this point. Many of the forbs found in a substantial drainage that drains the pools near the barn."
+SOL-16-01,WILC,WILC-02,"Petersen, Luke",2018-05-15,,,,,1,"Relatively recent grazing evident. More AM than other points. Lacking significant vernal pool coverage."
+SOL-16-01,WILC,WILC-02,"Petersen, Luke",2019-05-06,,,,,1,"moderately grazed many plants bitten low to ground"
+SOL-16-01,WILC,WILC-16,"Petersen, Luke",2017-05-03,,,,,1,
+SOL-16-01,WILC,WILC-16,"Petersen, Luke",2018-05-15,,,,,1,"Light grazing, not recent. First sighting of barbed goatgrass here."
+SOL-16-01,WILC,WILC-16,"Petersen, Luke",2019-05-06,,,,,1,"bitten grass, hoof impact. more moisture this year, but less than 2017. More invasives than last two years."
+SOL-16-01,WILC,WILC-16,"Halstrom, Grant",2020-06-25,,,,,1,"Pretty late in season, most veg is dried out."
+SOL-16-01,WILC,WILC-16,"Le, My-Lan",2022-04-27,,,,,1,
+SOL-16-01,WILC,WILC-16,"Le, My-Lan",2022-04-27,,,,,1,
+SOL-16-01,WILC,WILC-17,"Petersen, Luke",2017-05-03,,,,,1,
+SOL-16-01,WILC,WILC-17,"Petersen, Luke",2018-05-15,,,,,1,"Light grazing."
+SOL-16-01,WILC,WILC-17,"Petersen, Luke",2019-05-06,,,,,1,"Lots of micro-sites created by hoof impact during wet season. Relatively high native cover hode2 and plca6"
+SOL-16-01,WILC,WILC-17,"Halstrom, Grant",2020-06-25,,,,,1,
+SOL-16-01,WILC,WILC-20,"Petersen, Luke",2017-06-02,,,,,1,"This transect was difficult to survey due to incessant no-see-ums. Small annual forbs were past bloom and difficult to ID to species. Outside of the search radius, Bakers Navarretia was observed. Very different community from other WILC points, though this could be a seasonal effect."
+SOL-16-01,WILC,WILC-20,"Petersen, Luke",2018-05-14,,,,,1,"Lots of Stipa on mounds."
+SOL-16-01,WILC,WILC-20,"Petersen, Luke",2019-05-06,,,,,,
+SOL-16-01,WILC,WILC-58,"Petersen, Luke",2017-05-03,,,,,1,
+SOL-16-01,WILC,WILC-58,"Petersen, Luke",2018-05-15,,,,,1,"No evidence of recent grazing. Typical annual grassland. Low areas not as low as typical vernal pools. Mema mounds present."
+SOL-16-01,WILC,WILC-58,"Petersen, Luke",2019-05-06,,,,,1,"Grazed this year, but not currently."
+SOL-16-01,WILC,WILC-58,"Le, My-Lan",2022-04-27,,,,,1,
+TEH-16-04,EKLA,EKLA-04,"Wendt, Carrie",2017-04-26,,,,,1,
+TEH-16-04,EKLA,EKLA-04,"Wendt, Carrie",2018-05-09,,,,,,
+TEH-16-04,EKLA,EKLA-04,"Wendt, Carrie",2020-05-06,,,,,1,
+TEH-16-04,EKLA,EKLA-04,"Noda, Sophie",2021-04-29,,,,,1,
+TEH-16-04,EKLA,EKLA-05,"Wendt, Carrie",2017-04-26,,,1,1,1,
+TEH-16-04,EKLA,EKLA-05,"Wendt, Carrie",2018-05-09,1,4,,,1,
+TEH-16-04,EKLA,EKLA-05,"Wendt, Carrie",2020-05-06,,6,3,,1,"Only 7 inches of rain all year"
+TEH-16-04,EKLA,EKLA-05,"Noda, Sophie",2021-04-29,,6,3,,1,"Grass on releve recorded as ""wheat"" assumed to be Common Wheat, Triticum aestivum. ""Barley"" assumed to be Common Barley, Hordeum vulgarae; 6 inches of rain this year"
+TUL-17-04,CHRS,CHRS-002,"Eyestone, Bonnie",2018-04-18,1,3,3,2,1,
+TUL-17-04,CHRS,CHRS-004,"Halstrom, Grant",2018-04-17,5,8,18,1,1,
+TUL-17-04,CHRS,CHRS-011,"Eyestone, Bonnie",2018-04-18,6,,7,1,1,
+TUL-17-04,CHRS,CHRS-016,"Eyestone, Bonnie",2018-04-18,33,29,13,4,1,
+TUL-17-04,CHRS,CHRS-022,"Eyestone, Bonnie",2018-04-17,,5,9,1,1,
+TUL-17-04,CHRS,CHRS-023,"Eyestone, Bonnie",2018-04-18,,1,2,,1,
+NEV-17-01,DOMI,DOMI-01,"Weintraub , Kelly",2018-05-07,2,11,11,,,
+NEV-17-01,DOMI,DOMI-01,"Noda, Sophie",2021-04-26,,,,,,
+NEV-17-01,DOMI,DOMI-02,"Weintraub , Kelly",2017-05-02,,,2,,,
+NEV-17-01,DOMI,DOMI-02,"Noda, Sophie",2021-04-26,,,,,1,"Did not do DBH. some of the 2FAs are klamath weed- Hypericum perforatum"
+YUB-16-02,BRMR,BRMR-05,"Howard, Katharine",2017-05-24,,,,,1,"in direction 342, points 17-21 and 30-33 are on ranch road; in direction 162, points 36-38 are in drainage"
+YUB-16-02,BRMR,BRMR-07,"Howard, Katharine",2017-05-24,16,11,1,4,1,
+YUB-16-02,BRMR,BRMR-10,"Howard, Katharine",2017-05-24,,,,,1,
+YUB-16-01,LARA,LARA-07,"Howard, Katharine",2017-05-16,,,,,1,
+YUB-16-01,LARA,LARA-07,"Noda, Sophie",2021-04-30,,,,,1,
+YUB-16-01,LARA,LARA-10,"Howard, Katharine",2017-05-12,,,,,1,
+YUB-16-01,LARA,LARA-10,"Noda, Sophie",2021-04-30,,,,,1,"Points 41-47 along animal trail"
+YUB-16-01,LARA,LARA-11,"Howard, Katharine",2017-05-25,1,,,,1,"roughly 10% of the 50m radius area consists of a stock pond."
+YUB-16-01,LARA,LARA-15,"Noda, Sophie",2021-05-12,,,,,1,"LPI is on trail on 336 degree points 34-36"
+YUB-16-01,LARA,LARA-16,"Howard, Katharine",2017-05-12,,,,,1,"vernal pool; LOPEM2 taking over =("
+YUB-16-01,LARA,LARA-16,"Noda, Sophie",2021-05-12,,,,,1,
+YUB-16-01,LARA,LARA-B3,"Howard, Katharine",2017-05-25,,,,,1,
+YUB-16-01,LARA,LARA-B3,"Noda, Sophie",2021-04-06,,,,,1,"Vernal pool -ish LPI. many many forbs."
+YUB-16-01,LARA,LARA-B5,"Howard, Katharine",2017-05-16,,,,,1,
+YUB-16-01,LARA,LARA-B5,"Noda, Sophie",2021-04-30,,,,,1,
+YUB-16-01,LARA,LARA-B6,"Howard, Katharine",2017-05-25,,,,,1,
+YUB-16-01,LARA,LARA-B6,"Noda, Sophie",2021-05-10,,,,,1,
+YUB-16-03,RIRA,RIRA-02,"Howard, Katharine",2017-05-23,1,4,7,,1,"sheep came through a while ago but not grazed by cattle yet this season"
+YUB-16-03,RIRA,RIRA-02,"Halstrom, Grant",2020-05-26,,,12,,,
+YUB-16-03,RIRA,RIRA-05,"Howard, Katharine",2017-05-10,,,1,,1,"For direction 71, points 2-5 are on a ranch road. Only a few cows and sheep have grazed this this year; not heavily. Site is at old homestead.  Blue oak on direction 71 is canopy only, trunk is outside 50m radius."
+YUB-16-03,RIRA,RIRA-05,"Halstrom, Grant",2020-06-11,3,1,,,1,
+YUB-16-03,RIRA,RIRA-10,"Howard, Katharine",2017-05-23,10,24,6,1,1,"ephemeral stream"
+YUB-16-03,RIRA,RIRA-12,"Howard, Katharine",2017-05-23,28,,2,,,"Not grazed in a long time.  Heavy machinery was used last year (2016) to do Brush Mgmt as a NRCS practice.  It was supposed to be seeded but was not."
+YUB-16-03,RIRA,RIRA-12,"Halstrom, Grant",2020-06-04,7,11,2,,1,
+YUB-16-03,RIRA,RIRA-18,"Howard, Katharine",2018-05-04,53,27,,,,"all soil surfaces that say Moss were Moss growing on a rock not the soil surface"
+YUB-16-03,RIRA,RIRA-18,"Halstrom, Grant",2020-05-26,17,20,6,,1,
+YUB-16-03,RIRA,RIRA-25,"Howard, Katharine",2017-05-10,,,2,1,1,"Heavily grazed small paddock (not irrigated). For direction 41, there is a fenceline between points 43 & 44; lines 44-50 are outside the pasture along the road verge and lines 46-49 are on a ranch road. There is a WBNU nesting in a cavity in the fence post the gate latches into; hole is less than a meter from the ground (counted as a snag)."
+YUB-16-03,RIRA,RIRA-25,"Halstrom, Grant",2020-06-04,,,2,,1,
+YUB-16-04,SARA,SARA-10,"Howard, Katharine",2017-05-22,14,95,1,2,1,"Couldn't get a soil point here, ground dried out too quickly and got hard as a rock."
+YUB-16-04,SARA,SARA-11,"Howard, Katharine",2017-05-22,,,,,1,
+YUB-16-04,SARA,SARA-14,"Howard, Katharine",2017-05-22,10,106,,2,1,"for point 10 on second direction, basal layer is woody debris, wouldn't allow entry as such"
+YUB-16-04,SARA,SARA-15,"Howard, Katharine",2017-05-22,10,83,,5,1,
+TEH-15-02,CORA,CORA-02,"Halstrom, Grant",2017-05-15,,,,,1,
+TEH-15-02,CORA,CORA-02,"Wendt, Carrie",2018-05-08,,,,,1,
+TEH-15-02,CORA,CORA-06,"Wendt, Carrie",2017-05-15,4,,,1,1,
+TEH-15-02,CORA,CORA-06,"Wendt, Carrie",2018-05-11,,,9,,1,"We moved the north transect to the west when we hit the fence"
+"SHA-15-08 N",ROSS,HSPR-01,"Herrera, Alicia",2017-05-11,,,,,1,
+ALA-17-03,GUMP,GUMP-001,"Marsh, Kyle",2017-05-04,,,,,1,
+ALA-17-03,GUMP,GUMP-002,"Marsh, Kyle",2017-04-26,7,15,12,,1,"too steep for line point in 101 direction"
+ALA-17-03,GUMP,GUMP-003,"Marsh, Kyle",2017-05-09,,,,,1,
+ALA-17-03,GUMP,GUMP-005,"Marsh, Kyle",2017-05-12,3,1,2,,1,
+ALA-17-03,GUMP,GUMP-005,"Marsh, Kyle",2017-05-12,3,1,2,,1,
+ALA-17-03,GUMP,GUMP-006,"Marsh, Kyle",2017-05-05,,1,1,,1,
+ALA-17-03,GUMP,GUMP-008,"Marsh, Kyle",2017-05-11,4,1,5,,1,
+ALA-17-03,GUMP,GUMP-009,"Marsh, Kyle",2017-04-05,1,,,,1,
+ALA-17-03,GUMP,GUMP-010,"Marsh, Kyle",2017-05-12,,1,5,,1,
+ALA-17-03,GUMP,GUMP-016,"Marsh, Kyle",2017-04-26,3,3,8,1,1,
+ALA-17-03,GUMP,GUMP-017,"Marsh, Kyle",2017-05-04,,,2,,1,
+ALA-17-03,GUMP,GUMP-018,"Marsh, Kyle",2017-04-26,1,1,13,,1,
+ALA-17-03,GUMP,GUMP-019,"Marsh, Kyle",2017-05-03,2,4,6,1,1,"LPI IN 200 Degree direction hit fence so stopped."
+ALA-17-03,GUMP,GUMP-020,"Marsh, Kyle",2017-05-05,1,,,,1,
+ALA-17-03,GUMP,GUMP-022,"Marsh, Kyle",2017-05-10,,,,,1,
+ALA-17-03,GUMP,GUMP-023,"Marsh, Kyle",2017-05-03,,1,2,,1,"224 degree direction LPI continued past fence so didn't finish."
+ALA-17-03,GUMP,GUMP-025,"Marsh, Kyle",2017-05-04,,,,,1,
+ALA-17-03,GUMP,GUMP-RCD,"Marsh, Kyle",2017-05-10,,,,,,
+SAN-17-01,GERN,GERN-04,"Marsh, Kyle",2017-05-25,7,8,2,4,1,
+SAN-17-01,GERN,GERN-02,"Marsh, Kyle",2017-05-25,10,20,5,4,1,
+SAN-17-01,GERN,GERN-01,"Marsh, Kyle",2017-05-25,30,13,3,1,1,"buda2=bush dandy."
+SAN-17-01,GERN,GERN-05,"Marsh, Kyle",2017-05-25,7,25,10,5,0,
+MAD-17-01,TODI,TODI-14,"Rives, Aaron",2017-06-01,4,1,,,1,
+MAD-17-01,TODI,TODI-16,"Rives, Aaron",2017-06-12,3,4,,3,1,
+BUT-17-01,CAPA,072,"Wendt, Carrie",2017-05-24,7,,,,,
+BUT-17-01,CAPA,072,"Wendt, Carrie",2018-04-27,13,,,,,
+BUT-17-01,CAPA,CAPA-01,"Wendt, Carrie",2017-05-24,4,,,,,
+BUT-17-01,CAPA,CAPA-01,"Wendt, Carrie",2018-04-27,21,,,,,
+BUT-17-01,CAPA,CAPA-07,"Wendt, Carrie",2017-05-08,1,,,2,0,
+BUT-17-01,CAPA,CAPA-07,"Wendt, Carrie",2018-04-26,,9,,,,
+WAS-17-01,TDRA,TDRA-01,"Schnelle, Briana",2017-06-15,,,,,1,"Light to moderate grazing"
+WAS-17-01,TDRA,TDRA-18,"Schnelle, Briana",2017-06-15,,,,,1,"Light Grazing"
+WAS-17-01,TDRA,TDRA-03,"Schnelle, Briana",2017-06-15,,,,,1,"Light grazing on all fields."
+MOD-17-01,SHRO,SHRO-11,"Schnelle, Briana",2017-06-24,,,,,1,"Sheep grazing, light to medium use"
+MOD-17-01,SHRO,SHRO-11,"Schnelle, Briana",2018-06-20,20,13,16,,1,
+MOD-17-01,SHRO,SHRO-13,"Schnelle, Briana",2017-06-23,,,,,0,"Field rested for the year"
+MOD-17-01,SHRO,SHRO-13,"Schnelle, Briana",2018-06-20,9,15,18,10,0,"No grazing"
+MOD-17-01,SHRO,SHRO-17,"Schnelle, Briana",2017-06-24,,,,,,"Rest from grazing this season"
+MOD-17-01,SHRO,SHRO-17,"Schnelle, Briana",2018-06-20,39,27,27,1,,"Bladder pod on releve (cant find USDA code)"
+YOL-14-04,BRGR,BR05-01,"Shake, Corey",2017-06-07,,,,,1,"Visual estimate of % cover within 50m: ELGL < 1, NAPU4 = 10, CAPY2 < 1, CESO3 < 1.  At least 60 cow-calf pairs grazing for last couple to several months.  Grazing pressure is patchy, but heavy in a few areas, including on Stipa pulchra (NAPU4)--some are grazed to 5 cm, but not large majority.   Cover visual estimates:  ELGL <1%, NAPU4 = 10%, CAPY2 <1%, CESO3 <1%."
+YOL-14-04,BRGR,BR05-01,"Shake, Corey",2019-05-06,,,,,1,"Not recently grazed, but maybe in fall/early winter 2018-19"
+YOL-14-04,BRGR,BR05-01,"Noda, Sophie",2021-05-27,,,,,,"Not grazed this year following last June's prescribed fire; very very little TACA8 and AETR in plot. 30-35 on 285 transect on road"
+YOL-14-04,BRGR,BR05-01,"Garcia, Dabid",2022-04-28,,,,,1,"very light grazing this year- very few animals and in late Jan-Feb (sheep) and a few cattle in the last couple weeks. Both avenas present, so coded as ""AVENA"" on LPI; point 34 on 285 degree transect on a 2-track road"
+BUT-18-14,DMRE,DMRE-01,"Wendt, Carrie",2018-04-25,,9,,,1,
+BUT-18-14,DMRE,DMRE-01,"Wendt, Carrie",2019-05-23,4,7,,,,"Transect was overgrown with impenetrable brush so we could not finish. There has been little grazing on this site. It is a thick riparian forest not rangeland"
+BUT-18-14,DMRE,DMRE-06,"Wendt, Carrie",2018-04-25,,,,,1,
+BUT-18-14,DMRE,DMRE-06,"Wendt, Carrie",2019-05-23,51,8,,,,"not grazed over the winter"
+YUB-16-03,RIRA,RIRA-26,"Howard, Katharine",2018-05-04,,,,,1,"Was disked and seeded aerially in October 2017; seed mix was TRHI4, VIVI, BRHO2, HOVU, & THIN6. Was grazed once in April 2018, but you can't tell by looking at it."
+SIE-16-01,CALP,CALP-03,"Weintraub , Kelly",2018-06-25,,,,,1,"Cows are currently in this field, but this point does not appear to have been grazed."
+SIE-16-01,CALP,CALP-04,"Weintraub , Kelly",2018-06-25,9,,,,,
+SIE-16-01,CALP,CALP-05,"Weintraub , Kelly",2018-06-08,,,,,,
+SIE-16-01,CALP,CALP-12,"Weverka, Jacob",2019-06-11,,,,,,
+SIE-16-01,CALP,CALP-13,"Weverka, Jacob",2019-06-11,,1,,,,"Pinus is P. sylvestris but it's not in the database"
+ALA-18-01,ACWM,ACWM-01,"Marsh, Kyle",2018-04-24,,,,,1,
+ALA-18-01,ACWM,ACWM-02,"Marsh, Kyle",2018-04-24,,,,,1,
+ALA-18-01,ACWM,ACWM-03,"Marsh, Kyle",2018-04-24,,,,,1,
+ALA-18-01,ACWM,ACWM-04,"Marsh, Kyle",2018-04-26,,,,,1,
+ALA-18-01,ACWM,ACWM-05,"Marsh, Kyle",2018-04-24,,,,,1,
+ALA-18-01,ACWM,ACWM-06,"Marsh, Kyle",2018-04-24,,,,,1,
+ALA-18-01,ACWM,ACWM-07,"Marsh, Kyle",2018-04-24,,,,,1,
+ALA-18-01,ACWM,ACWM-08,"Marsh, Kyle",2018-04-24,,,,,,
+ALA-18-02,MULL,MULL-01,"Marsh, Kyle",2018-04-13,33,7,2,10,1,
+ALA-18-02,MULL,MULL-03,"Marsh, Kyle",2018-04-13,1,2,1,,1,
+ALA-18-02,MULL,MULL-04,"Marsh, Kyle",2018-04-26,,,,,1,"Not this season"
+ALA-18-03,PARA,PARA-001,"Marsh, Kyle",2018-04-26,10,3,5,,1,
+ALA-18-03,PARA,PARA-003,"Marsh, Kyle",2018-04-20,,,,,1,
+ALA-18-03,PARA,PARA-004,"Marsh, Kyle",2018-04-26,,,,,1,
+ALA-18-03,PARA,PARA-009,"Marsh, Kyle",2018-04-27,,,,,1,"Hit fence line at point 36 at 260 degrees"
+ALA-18-03,PARA,PARA-010,"Marsh, Kyle",2018-04-26,,,,,1,
+ALA-18-03,PARA,PARA-011,"Marsh, Kyle",2018-04-26,,,,,1,
+SON-18-02,POMO,POMO-02,"Winquist, Suzanne",2018-05-11,12,31,16,5,,"lots of recent oak regeneration only about 30cm high"
+SON-18-02,POMO,POMO-02,"Noda, Sophie",2022-05-24,7,9,20,1,1,
+SON-18-02,POMO,POMO-06,"Winquist, Suzanne",2018-05-11,,4,6,1,,
+SON-18-02,POMO,POMO-06,"Noda, Sophie",2022-05-24,,,4,,1,
+SON-18-02,POMO,POMO-09,"Winquist, Suzanne",2018-05-11,13,11,2,,,"BARBED GOAT GRASS INVASION. STEEP HILLSIDE"
+SON-18-02,POMO,POMO-09,"Noda, Sophie",2022-05-24,11,12,4,,1,
+SON-18-01,BAHI,BAHI-25,"Winquist, Suzanne",2018-06-14,,,,,1,
+SON-18-01,BAHI,BAHI-25,"Hittenberger, Taj",2021-05-14,,,,,,
+SON-18-01,BAHI,BAHI-30,"Hittenberger, Taj",2021-05-14,,,,,,
+SON-18-01,BAHI,BAHI-30,"Winquist, Suzanne",2018-04-27,,,,,,
+SON-18-01,BAHI,BAHI-10,"Winquist, Suzanne",2018-06-15,,,,,1,
+SON-18-01,BAHI,BAHI-10,"Hittenberger, Taj",2021-05-13,,,,,,
+SON-18-01,BAHI,BAHI-13,"Winquist, Suzanne",2018-06-15,,,,,1,
+SON-18-01,BAHI,BAHI-13,"Hittenberger, Taj",2021-05-13,,,,,,
+SON-15-10,5SFA,5SFA-02,"Winquist, Suzanne",2018-06-06,,,,,1,
+SON-15-10,5SFA,5SFA-02,"Garcia, Dabid",2022-05-17,,,,,1,"Site was recently mowed to control black mustard."
+SON-15-10,5SFA,5SFA-04,"Garcia, Dabid",2022-05-16,,,,,,
+SON-15-10,5SFA,5SFA-05,"Garcia, Dabid",2022-05-16,,,,,1,
+SON-15-10,5SFA,5SFA-06,"Winquist, Suzanne",2018-06-07,,,,,,"RECENTLY HAYED"
+SON-15-10,5SFA,5SFA-06,"Garcia, Dabid",2022-05-16,,,,,1,
+SON-15-10,5SFA,5SFA-09,"Winquist, Suzanne",2018-05-07,,,2,,,"Not grazed this season."
+SON-15-10,5SFA,5SFA-09,"Garcia, Dabid",2022-05-17,,,,,1,
+YOL-14-03,YL06,YL06-CL,"Shake, Corey",2018-05-09,,,,,1,
+YOL-14-03,YL06,YL06-CL,"Shake, Corey",2019-05-08,,,,,1,
+YOL-14-03,YL06,YL06-CL,"Halstrom, Grant",2020-05-15,,,,,1,
+YOL-14-03,YL06,YL06-CL,"Halstrom, Grant",2020-05-15,,,,,1,
+YOL-14-03,YL06,YL06-CL,"Noda, Sophie",2021-05-04,,,,,1,"Very dry, short grass"
+YOL-14-03,YL06,YL06-TR,"Shake, Corey",2018-05-08,,,,,1,"DIRECTION 12, PT 36 - NO HEIGHT RECORDED; AETR 5% of area; Grasses matted in areas by cattle trampling"
+YOL-14-03,YL06,YL06-TR,"Shake, Corey",2019-05-08,,,,,1,"Cow trial on first direction #50"
+YOL-14-03,YL06,YL06-TR,"Noda, Sophie",2021-05-05,,,,,1,"Area was heavily grazed and production low--exceptionally dry year"
+YOL-14-03,YL12,YL12-CL,"Shake, Corey",2018-05-08,,,,,1,"TACA8 and AETR = ~30%"
+YOL-14-03,YL12,YL12-CL,"Shake, Corey",2019-05-08,,,,,1,
+YOL-14-03,YL12,YL12-CL,"Halstrom, Grant",2020-05-13,,,,,1,
+YOL-14-03,YL12,YL12-CL,"Halstrom, Grant",2020-05-06,,,,,1,
+YOL-14-03,YL12,YL12-CL,"Noda, Sophie",2021-05-05,,,,,1,
+YOL-14-03,YL18,YL18-CL,"Shake, Corey",2018-05-07,,,,,1,
+YOL-14-03,YL18,YL18-CL,"Shake, Corey",2019-05-08,,,,,1,"Searched for 25 min because found low area where water ponds with different species from elsewhere. Took extra time to search there."
+YOL-14-03,YL18,YL18-CL,"Halstrom, Grant",2020-05-13,,,,,1,"Didn't see erodium probably too late in season."
+YOL-14-03,YL18,YL18-CL,"Noda, Sophie",2021-05-06,,,,,1,"Hay has been spread across entire plot-heavily grazed. Also most of plot was burned in last fire season"
+MRN-15-02,TGGA,TGGA-08,"Halstrom, Grant",2020-05-29,,,,,,
+MRN-15-02,TGGA,TGGA-08,"Garcia, Dabid",2022-05-20,,,,,,
+MOD-18-03,JADI,JADI-05,"Schnelle, Briana",2018-06-22,,,,,,
+MOD-18-02,JEHU,JEHU-03,"Noda, Sophie",2021-06-01,,,,,,"ungrazed this year. Drier than normal"
+MOD-18-02,JEHU,JEHU-03,"Schnelle, Briana",2018-06-21,,,,,,
+MOD-18-02,JEHU,JEHU-05,"Noda, Sophie",2021-06-04,,,,,1,"most grass not sending up seed heads yet. did not do 2nd half of transect due to time constraints"
+MOD-18-02,JEHU,JEHU-05,"Schnelle, Briana",2018-06-21,,,,,,
+MOD-18-02,JEHU,JEHU-11,"Noda, Sophie",2021-06-04,,,,,1,"I think grazed but not sure"
+MOD-18-02,JEHU,JEHU-11,"Schnelle, Briana",2018-06-21,,,,,,
+MOD-18-02,JEHU,JEHU-25,"Noda, Sophie",2021-06-01,8,10,7,,1,"heavily grazed recently; many forbs not yet flowering"
+MOD-18-02,JEHU,JEHU-25,"Schnelle, Briana",2018-06-21,14,5,3,,1,"STIPA at point (couldn't enter into CADC as ""STIPA"")"
+MOD-18-01,JACO,JACO-03,"Schnelle, Briana",2018-06-22,,,,,1,
+MOD-18-01,JACO,JACO-05,"Schnelle, Briana",2018-06-22,,,,,,
+SOL-17-07,CACU,CACU-01,"Petersen, Luke",2019-05-13,,,,,,"Not grazed in 10+ years. Burned in 2016. Very thatchy, mostly with medusahead."
+SOL-17-07,CACU,CACU-01,"Le, My-Lan",2022-04-26,,,,,,"No grazing."
+SOL-17-07,CACU,CACU-02,"Le, My-Lan",2022-04-26,,,,,,"No grazing."
+SOL-17-07,CACU,CACU-03,"Petersen, Luke",2019-05-07,,,,,,"Very thatchy wih TACA8 and LOPEM2. Brodiaea and blowives seem to pentrate thatch well. AETR found as well. Very low productivity."
+SOL-17-07,CACU,CACU-03,"Le, My-Lan",2022-04-25,,,,,,
+SOL-17-07,CACU,CACU-04,"Petersen, Luke",2019-05-07,,,,,,"Some tule littter near end of direction 2. Patches of productivity and diversity on mounds. The diversity is there, but is limited in most areas by invasive species."
+SOL-17-07,CACU,CACU-04,"Le, My-Lan",2022-04-25,,,,,1,"Transect <50m from slough, marsh habitat on edge"
+SOL-17-07,CACU,CACU-05,"Petersen, Luke",2019-05-07,,,,,1,"Slight grazing from neighboring property to which fence is in disrepair. Note presence of depression with vernal pool potential."
+SOL-17-07,CACU,CACU-05,"Le, My-Lan",2022-04-25,,,,,1,
+SOL-17-07,CACU,CACU-06,"Petersen, Luke",2019-05-07,,,,,1,"Grazing from neighbor cows to the south. Soil compacted in depressions, but with a layer of litter on top."
+SOL-17-07,CACU,CACU-06,"Le, My-Lan",2022-04-25,,,,,1,
+NEV-19-01,GABA,GABA-2A,"Noda, Sophie",2022-04-27,7,19,8,3,1,"on 285 degree transect, line ends at point 47 because that is where the exclosure fence is.  this riparian area has been planted with various plants for restoration: deer grass, Elymus glaucus, mulefat, dogwood, and more.  Cows are supposed to be exclosed from this area but had been breaking in via the debris flaps. They were seen that morning in the exclosure while we were point counting."
+SHA-18-03,LBCR,LBCR_01,"Weverka, Jacob",2019-05-14,234,22,5,2,1,
+SHA-18-03,LBCR,LBCR_01,"Garcia, Dabid",2022-05-02,162,52,21,9,1,
+SHA-18-03,LBCR,LBCR_06,"Weverka, Jacob",2019-05-14,,,,,1,
+SHA-18-03,LBCR,LBCR_06,"Garcia, Dabid",2022-05-02,,,,,1,
+YOL-14-02,YARI,YARI-07,"Shake, Corey",2019-04-25,,,,,1,"Not grazed yet"
+YOL-14-02,YARI,YARI-07,"Garcia, Dabid",2022-04-26,,,,,,"This site has not been grazed for 2 consecutive seasons to protect riparian upland restoration planting- all shrubs + Grindelia + Achillea were planted in 2020-2021 growing season."
+MOD-19-01,BESE,BESE-03,"Weverka, Jacob",2019-07-02,,,,,1,
+MOD-19-01,BESE,BESE-07,"Halstrom, Grant",2019-07-02,,,,,,
+MOD-19-01,BENW,BENW-03,"Weverka, Jacob",2019-07-01,,,,,,
+MOD-19-01,BENW,BENW-08,"Halstrom, Grant",2019-07-01,,,,,,
+MOD-19-01,BENW,BENW-10,"Weverka, Jacob",2019-07-01,,,,,,
+MOD-19-01,BENW,BENW-12,"Weverka, Jacob",2019-07-02,,,,,1,
+SHA-20-01,BCPR,BCPR-01,"Herrera, Alicia",2020-05-03,189,81,9,7,,"No intentional grazing. Open range means the occasional cow wanders onto the property."
+SHA-20-01,BCPR,BCPR-05,"Herrera, Alicia",2020-05-03,6,13,10,,,"No intentional grazing. Open range leads to the occasional cow on the property."
+MAR-20-01,BERN,BERN-03,"Mong, Catie",2021-05-07,,,2,1,1,"CALO- white mariposa lily. ALso yellow mariposa lily"
+MAR-20-01,BERN,BERN-06,"Mong, Catie",2021-05-07,3,7,8,12,1,
+SAN-20-01,DFOS,DFOS-02,"Halstrom, Grant",2020-06-01,,,2,,1,
+SAN-20-01,DFOS,DFOS-06,"Porzig, Elizabeth",2020-06-01,,,7,,1,
+SAN-20-01,DFOS,DFOS-08,"Halstrom, Grant",2020-06-17,,,2,,1,
+SAN-20-01,DFOS,DFOS-12,"Halstrom, Grant",2020-06-17,,1,7,,1,
+SAN-20-01,DFOS,DFOS-13,"Halstrom, Grant",2020-06-17,,,,,1,
+MRN-16-01,HMFR,HMFR-09,"DiGaudio, Ryan",2021-04-22,,,,,1,"SN entered data from scans with some incomplete codes and didn't collect the data, so there is a slight possibility for error"
+MRN-16-01,HMFR,HMFR-10,"DiGaudio, Ryan",2021-04-23,,,,,1,
+MRN-16-01,HMFR,HMFR-14,"DiGaudio, Ryan",2021-04-23,,,,,1,"height of TODI unspecified on data sheet"
+MRN-16-01,HMFR,HMFR-15,"DiGaudio, Ryan",2021-04-23,,,,,1,
+MRN-16-01,HMFR,HMFR-16,"DiGaudio, Ryan",2021-04-22,,,,,1,"a relatively flat, and wet area. Many individuals of an unknown allium, seems to have already bloomed and is withering but hard to say."
+MER-21-01,SACR,SACR-12,"Garcia, Dabid",2022-03-22,,,,,1,"On direction 276: Points 40,41,45,48,49 on burrows."
+MER-21-01,SACR,SACR-15,"Garcia, Dabid",2022-03-22,,,,,1,Sheep
+MER-21-01,SACR,SACR-16,"Le, My-Lan",2022-03-21,,,,,1,"Puffball mushrooms in transect radius."
+MER-21-01,SACR,SACR-22,"Le, My-Lan",2022-03-21,,,,,1,"Extremely low RDM, windy. Tilled intensively until 10-15 years ago, and furrows still visible."
+HUM-21-02,LONE,LONE-04,"Howard, Katharine",2021-05-27,8,12,16,,,
+HUM-21-02,LONE,LONE-14,"Howard, Katharine",2021-05-27,5,5,10,1,1,"rx burn in November 2020"
+HUM-21-02,LONE,LONE-18,"Howard, Katharine",2021-05-28,,,4,2,1,
+HUM-21-02,LONE,LONE-21,"Howard, Katharine",2021-05-14,,,,,1,"moderately heavily grazed already"
+HUM-21-02,LONE,LONE-25,"Howard, Katharine",2021-05-14,20,15,3,1,1,"Old homestead site, Malus may be Pyrus, hard to tell. Transect bisects  wetland area."
+HUM-21-01,FERN,FERN-04,"Howard, Katharine",2021-06-17,,,,,,"Point is off the GTRS grid, soil is ""dead"" i.e. area of special interest to LO"
+HUM-21-01,FERN,FERN-08,"Howard, Katharine",2021-07-02,4,,,,1,"on the 169 degree transet points 13-16 are crossing a trail, w/ point 15 on the trail. Steep."
+HUM-21-01,FERN,FERN-10,"Howard, Katharine",2021-07-02,2,,,,1,"wet area/steep; had been grazed 2-3 times this season but was fairly well recovered."
+SON-21-02,SACS,PSACS-10,"Hittenberger, Taj",2021-06-11,,,,,,"Entire area is grazed except for #19-50 on second transect (Direction: 284), which are left ungrazed due to thick brush."
+SON-21-02,SACS,PSACS-11,"Hittenberger, Taj",2021-06-17,,,,,,
+SON-21-02,SACS,PSACS-12,"Hittenberger, Taj",2021-06-17,,,,,,
+SON-21-02,SACS,SACS-01,"Hittenberger, Taj",2021-05-04,,,,,,
+SON-21-02,SACS,SACS-03,"Hittenberger, Taj",2021-05-04,,,,,1,
+SON-21-02,SACS,SACS-08,"Hittenberger, Taj",2021-05-04,,,,,1,"Points 49 and 50 in LPI 1 are intentionally blank. Difficult access due to dense coastal shrubs."
+SON-21-02,SACS,PSACS-09,"Hittenberger, Taj",2021-05-24,,,,,,"LPIs #38-50 are inaccessible due to dense BAPI and TODI. LPIs #39-50 are inaccessible due to dense BAPI."
+SON-21-01,CIBA,CIBA-01,"Hittenberger, Taj",2021-04-28,,,,,,"grazing not specified on data sheets"
+SON-21-01,CIBA,CIBA-011,"Hittenberger, Taj",2021-05-03,,,,,1,
+SON-21-01,CIBA,CIBA-012,"Hittenberger, Taj",2021-05-03,,,,,,
+SON-21-01,CIBA,CIBA-02,"Hittenberger, Taj",2021-05-03,,,,,,"14 degree transect ends at fence, edge of grazing area."
+MAR-21-01,WEST,WEST-03,"Mong, Catie",2021-05-13,,,,,,"heavily overgrazed the previous season (different owner). Rested since December."
+MAR-21-01,WEST,WEST-14,"Mong, Catie",2021-05-13,,,,,,"Heavily overgrazed year prior by different owner. Allowed to rest since December. No trees or shrubs"
+MER-21-01,SACR,SACR-23,"Le, My-Lan",2022-03-22,,,,,1,"Drainage/creek runs through plot (not through transects)."
+"Arundo Removal Monitoring Yolo","Arundo Removal Monitoring Yolo veg data","CCPU-05 VEG","Shake, Corey",2021-05-10,,,,,,
+"Arundo Removal Monitoring Yolo","Arundo Removal Monitoring Yolo veg data","CCPU-03 VEG","Shake, Corey",2021-05-06,,,,,,
+"Arundo Removal Monitoring Yolo","Arundo Removal Monitoring Yolo veg data","FCPU-01 VEG","Shake, Corey",2021-04-30,,,,,,
+"Arundo Removal Monitoring Yolo","Arundo Removal Monitoring Yolo veg data","FCPU-02 VEG","Shake, Corey",2021-04-30,,,,,,"17C ARDO5 = ARDO3 Canopy ARDO4 for point 46, first direction is thatch"
+"Arundo Removal Monitoring Yolo","Arundo Removal Monitoring Yolo veg data","CSCK-04 VEG","Shake, Corey",2021-05-14,,,,,,"urban site with wood and tile debris"
+"Arundo Removal Monitoring Yolo","Arundo Removal Monitoring Yolo veg data","CSSC-08 VEG","Shake, Corey",2021-05-20,,,,,,"Salt Creek stream channel water for soil surface on points 15-16 & 45-49 in first direction, and points 10-12 & 40-45 in second direction"
+"Arundo Removal Monitoring Yolo","Arundo Removal Monitoring Yolo veg data","FCCA-07 VEG","Shake, Corey",2021-05-13,,,,,,
+"Arundo Removal Monitoring Yolo","Arundo Removal Monitoring Yolo veg data","FCCA-06 VEG","Shake, Corey",2021-05-04,,,,,,
+MER-22-01,UCME,UCME-003,"Le, My-Lan",2022-03-22,,,,,1,"50 m radius passes through multiple vernal pools"
+MER-22-01,UCME,UCME-005,"Le, My-Lan",2022-03-24,,,,,1,
+MER-22-01,UCME,UCME-006,"Garcia, Dabid",2022-03-24,,,,,1,
+MER-22-01,UCME,UCME-011,"Le, My-Lan",2022-03-24,,,,,1,"Releve had 10 minutes extra time and two observers."
+MER-22-01,UCME,UCME-022,"Garcia, Dabid",2022-03-23,,,,,1,
+MER-22-01,UCME,UCME-083,"Garcia, Dabid",2022-03-23,,,,,1,"Point blue incudes small vernal pools. Releve had two observers."
+MER-22-01,UCME,UCME-161,"Le, My-Lan",2022-03-23,,,,,1,
+MER-22-01,UCME,UCME-337,"Garcia, Dabid",2022-03-23,,,,,1,
+"SHA-15-08 N",XROSS,XROSS-17,"Garcia, Dabid",2022-05-04,132,138,11,8,1,
+"SHA-15-08 N",XROSS,XROSS-18,"Garcia, Dabid",2022-05-05,71,122,35,4,1,"Fuels treatment (lop and scatter) just completed. Lots of woody litter and skid tracks."
+HUM-22-01,FLCR,FLCR-01,"Howard, Katharine",2022-06-02,8,4,4,1,1,"on transect 310 points 28-31 & 43-46 cross ranch roads."
+HUM-22-01,FLCR,FLCR-02,"Howard, Katharine",2022-06-02,,,,,1,
+HUM-22-02,FREN,FREN-07,"Howard, Katharine",2022-06-01,,,,,1,"pts 40-45 on transect 340 is in a gully/drainage"
+HUM-22-02,FREN,FREN-41,"Howard, Katharine",2022-06-01,3,3,1,,1,
+HUM-22-02,FREN,FREN-49,"Howard, Katharine",2022-06-01,,,,,,"Cattle have access but there's no water so they don't get up there much. Points 14-16 on 61 transect cross ranch road."
+SON-15-10,5SFA,5SFA-11,"Garcia, Dabid",2022-05-17,,,,,,
+SON-22-01,SIPE,SIPE-01,"Le, My-Lan",2022-05-17,,,,,1,"All trees outside pasture fence. Did not include horticultural plants outside of fence (shrubs and forbs)."
+SON-22-01,SIPE,SIPE-02,"Le, My-Lan",2022-05-17,1,2,12,,1,"Points 46-50 on 255 degree transect on mulch pile. Most of the trees are on the other side of the fence."
+NEV-19-01,GABA,GABA-04,"Noda, Sophie",2022-04-27,14,27,22,3,1,
+NEV-19-01,GABA,GABA-07,"Noda, Sophie",2022-06-07,7,24,20,3,1,"later season than other 3 veg points sampled"
+NEV-19-01,GABA,GABA-25,"Noda, Sophie",2022-04-27,7,14,25,2,1,
+YOL-22-01,DUGR,DUGR-01,"Garcia, Dabid",2022-05-25,,,,,,"Attempted seeding harding grass this fall/winter & last, but it appears there was little success- < 5 seedlings found."
+YOL-22-01,DUGR,DUGR-03,"Garcia, Dabid",2022-04-25,,,,,1,"Triteleia laxa was seen in plot during soil survey a few months prior, but could not be found during releve search."

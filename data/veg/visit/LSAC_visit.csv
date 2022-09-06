@@ -1,0 +1,12 @@
+"Study Area","Transect Name","PointId","Observer","Date","DBH LT 23cm","DBH GT 38cm","DBH 23cm To 38cm","Snags","Grazing","Notes"
+"La Baranca [studyarea]","La Baranca",LABA_15,"Porzig, Elizabeth",2017-05-11,,,,,,
+"Pine Creek [studyarea]","Pine Creek",PICR_11,"Howard, Katharine",2016-04-27,0,0,2,0,0,"Wasn't grazed this year"
+"Pine Creek [studyarea]","Pine Creek",PICR_11,"Wendt, Carrie",2017-05-30,8,,,3,,
+"Pine Creek [studyarea]","Pine Creek",PICR_12,"Howard, Katharine",2016-04-28,0,1,1,0,0,
+"Pine Creek [studyarea]","Pine Creek",PICR_12,"Wendt, Carrie",2017-05-30,4,,,,,
+"Pine Creek [studyarea]","Pine Creek",PICR_23,"Howard, Katharine",2016-04-28,0,0,0,0,0,
+"Pine Creek [studyarea]","Pine Creek",PICR_23,"Wendt, Carrie",2017-05-04,,,,,1,
+"Pine Creek [studyarea]","Pine Creek",PICR_28,"Howard, Katharine",2016-04-28,0,0,0,0,1,"cows currently in pasture"
+"Pine Creek [studyarea]","Pine Creek",PICR_28,"Wendt, Carrie",2017-05-08,,,,,1,
+"Pine Creek [studyarea]","Pine Creek",PICR_30,"Howard, Katharine",2016-04-28,3,0,0,0,1,
+"Pine Creek [studyarea]","Pine Creek",PICR_30,"Wendt, Carrie",2017-05-04,4,,,,1,
